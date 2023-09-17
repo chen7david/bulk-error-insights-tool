@@ -1,0 +1,219 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "30fbc8aa-a699-4c7f-8e37-284b019359b4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1692884858/jcs0vh2sremowg7iqxbm.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "49e5e0e9-2427-443e-848f-2fada29cdb10",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1692884858/jcs0vh2sremowg7iqxbm.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "9c9c1509-aa9f-4065-a1ec-a6be09478ec0",
+          "value": "http://52.60.121.34/upload/300107/00826966011566_A7C1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4867565d-691f-4c29-af91-d5a3b3c54d36",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300110-00826966011573-00_480x.jpg?v=1579160416",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "79272241-0764-4a0c-881d-a2766dbec782",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300110-00826966011573-00_480x.jpg?v=1579160416",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "538e3253-93b6-406d-98fd-2a76ebc44ead",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330026-00826966011757-00_480x.jpg?v=1580167828",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "08e9adf0-73a5-419b-a6de-73d2fe93e847",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330024-00826966011740-00_480x.jpg?v=1580167821",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8cd7d4e5-1e8d-4735-b754-facd3d69b2c2",
+          "value": "http://52.60.121.34/upload/101307/00629108144142_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0e722a7a-5275-4268-8284-222b5ac14cb4",
+          "value": "http://52.60.121.34/upload/101307/00629108144142_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cdd5f29a-fc73-4a0c-aedc-edcc9f6e28d4",
+          "value": "http://52.60.121.34/upload/101307/00629108144142_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0d9fa5f1-015b-4436-b371-25a60cb51c78",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101186-00685960001566-a1c1_480x.jpg?v=1577111966",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7500ad15-94d4-4dcf-8fe6-b26c33e9e80c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101186-00685960001566-a1c1_480x.jpg?v=1577111966",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f2ecacec-9228-4cea-ae0f-89041a073a89",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310013-00807399051046-00_480x.jpg?v=1592588482",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5c8779b9-dbbe-4f5b-a77a-881d1054481c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330012-00826061200827-00_480x.jpg?v=1579160439",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9c37512d-ba4e-4ab2-b73a-5b7d24d27092",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330009-00826061200780-00_480x.jpg?v=1579160431",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3f3d5158-bb08-4f5a-8695-3aa07f6bb76e",
+          "value": "https://cdn.ocs.ca/img/101861/00628242243483_00_compress_101861.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a8b35508-fcd7-4ae3-8873-a9f82a2740ac",
+          "value": "https://cdn.ocs.ca/img/101861/00628242243483_00_compress_101861.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "94b3fa42-cae0-45f8-9fae-783adb25870c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300024-00694144003692-00_480x.jpg?v=1583962840",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b8963b8b-d07b-46be-8db5-9a31cca46df4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300024-00694144003692-00_480x.jpg?v=1583962840",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "288add1f-0299-4949-bea2-7195b56d273e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300176-00694144005832-00_480x.jpg?v=1592264486",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "67b2f75b-29cf-4025-b1a7-447159d51f84",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300176-00694144005832-00_480x.jpg?v=1592264486",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "309d1a1b-e2b2-4516-95d8-8cc43dd101f6",
+          "value": "http://52.60.121.34/upload/100990/00694144002978_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4feeabbb-5d27-453b-8c7d-455e83bddf4c",
+          "value": "http://52.60.121.34/upload/100990/00694144002978_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "553488c4-2b07-42e5-8348-3a174a291bad",
+          "value": "http://52.60.121.34/upload/101346/00697238112294_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "75517680-37b9-4834-a8ce-e51f67222b40",
+          "value": "http://52.60.121.34/upload/101346/00697238112294_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3f8055b2-f586-4f94-b679-a1910ea2516b",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101480-00628242243285-00_480x.jpg?v=1591741731",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "edf2fc31-128a-4c1c-b8a5-0c187140fce5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101071-e2-80-8d00628242243094-00_480x.jpg?v=1595280422",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8111123c-eda0-4e83-b1c0-e87526726469",
+          "value": "http://52.60.121.34/upload/100997/00694144007713_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "47bbf21a-a3ae-4466-a428-8570cd677866",
+          "value": "http://52.60.121.34/upload/100997/00694144007713_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3792c1ca-1e31-4045-afc5-4e865122132a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100993-00694144003111-a1c0-compressed_480x.jpg?v=1571262278",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ca90f6c4-b25c-48a5-a9b5-25d95cefed4e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100993-00694144003111-a1c0-compressed_480x.jpg?v=1571262278",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "70a846d5-0cea-42c7-8b76-8880b65a81d8",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300015-00694144003654-00_480x.jpg?v=1579160370",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "71d4c923-6ca9-4800-866f-0b1c2b8bbb28",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300015-00694144003654-00_480x.jpg?v=1579160370",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ded89d43-ddeb-4e7e-8165-c415deb9f373",
+          "value": "http://52.60.121.34/upload/101265/00827885003069_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e147e5bc-c3c3-4cdc-8bf5-11cf7b431e08",
+          "value": "http://52.60.121.34/upload/101265/00827885003069_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        }
+      ]
+    }
+  }

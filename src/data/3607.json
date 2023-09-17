@@ -1,0 +1,21 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "deee815b-324e-4cb0-bcf6-e1b136788c91",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ecfeb037-95e2-4cc4-be37-306f0eaf1f52",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        }
+      ]
+    }
+  }

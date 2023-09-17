@@ -1,0 +1,789 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "1f286775-1696-45a1-b0c8-712052221cd2",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04401321/04401321_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5b672602-44ad-403f-9327-fc9b7e214516",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04401321/04401321_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0735f2cf-4840-4f5e-a8b1-12884bfa54a9",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02701260/02701260_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ad1e4769-008a-4c8f-8566-7cb00a14820c",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02701260/02701260_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "004f2c84-c643-4bab-a9bc-5b52b9dd8351",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02701260/02701260_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d3ad05f2-1072-46e2-b6d5-71f6ffbd3437",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00101204/00101204_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7e9d748f-bb21-4c49-b515-af60439493c2",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00101204/00101204_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a292e36f-4fbc-49ac-89e6-29d11ae2ffa6",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00400891/00400891_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "70f11018-ee33-4b1c-952f-eadc17d5a4a7",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/03300458/03300458_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a65837bb-134d-4f7d-b7af-1f7a3c32ec1c",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/03300458/03300458_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a841c401-79fe-46d7-bbe6-8658afe364f1",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02001089/02001089_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4672df39-63df-49c5-8a39-6cfb41e9e2dd",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02001089/02001089_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ee61335b-ceb2-493a-a9be-f5af723d7db2",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04800568/04800568_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a7e371f2-6701-44bc-8562-7f43a0040b13",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04800568/04800568_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "43cc3478-2e8c-4a78-8431-911bc6e4027b",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04800571/04800571_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "09db3947-98ae-426a-b8d5-adf472298f7e",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04800571/04800571_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e77bbe09-830b-4404-b8c4-fee691c2e24f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04800559/04800559_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7b149793-ab68-4ae1-befd-dca126003f7a",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04800559/04800559_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b3db4ddf-fe38-4ec2-a790-fada5d0849ae",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632174510/quyzzlamjya3yfw7s5ky.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "32a961e8-4314-4004-8ba1-6683c941b289",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632174517/i8oy1yefcgl1qbuty8or.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "10fae1f8-571f-4295-b569-24ca664100d7",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632174528/jqxzr5f2r6noia6awadl.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "b709e84b-e256-4847-8dac-051bc845d7db",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632174535/zpmyjpufcr00gdzeu32y.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "97539756-9a2d-47e5-aad7-ec63fd545acb",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02801328/02801328_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "25395e4f-892a-4348-a471-7344fea7b99a",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02801328/02801328_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ce3e6df1-edbd-438c-b077-c01766f3f9be",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02801328/02801328_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6af0ac79-c074-43f5-bf90-23e3df09d581",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02801326/02801326_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "600ead01-46ef-4751-90ea-1c21fe6d041f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02801326/02801326_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "843e9ec8-c543-4bf9-881e-abfa2d9c6b41",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02800449/02800449_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d961f469-a113-4b4a-bccc-bdf9ffde6b90",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02800449/02800449_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "787f1290-9ace-4e1a-9044-97159a5e42ff",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1654536220/hxjm2s7xrh2n58utb3ve.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "88a673a7-314b-44b2-860d-0e8b9d84db40",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e63261c2-773a-410a-b27a-b259c0adde4c",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01001309/01001309_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "55afb007-16b2-4b62-a7e7-552442c1378d",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01001309/01001309_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9784b707-82fd-4292-9c57-44f8921ed0e5",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01000146/01000146_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "605d5b5f-8d86-41ff-a8aa-ae8a79aff8c9",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01001310/01001310_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "729a316d-d7cc-47de-b40b-105bc3fb641a",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01001310/01001310_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6321b8b4-87d1-4ec9-b6fa-add8a762b684",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00200498/00200498_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b795bbe9-049c-45e2-9c2b-16730db4e4d0",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00200498/00200498_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3af277a9-6c7a-45ea-b86c-be5bdb09722a",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00201160/00201160_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "58fcc656-1a13-4e1b-a177-1dd49f620c25",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00201160/00201160_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d2dd77f2-0a66-4d15-a99b-14c34ea76708",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00201213/00201213_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "57748e8d-fb43-4ad9-b406-f88a6876132b",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1654645580/q6o6qjmqz0awwyjqjxwe.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "f76d7d85-dccd-48f8-9912-5923266e9b98",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04101079/04101079_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a4c6ca19-d282-4550-b329-c9fed024d269",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04101079/04101079_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "86ea6cec-782a-42bc-bd1c-f43cee19aa0a",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "278be368-a46b-45cc-ae36-9cd100567a43",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/03800410/03800410_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a2228a2e-e71f-4c91-9c0d-910423ef7bf1",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/03800410/03800410_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a0797c02-2ba1-4d5a-8418-da8eee19ebf5",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300589/00300589_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a4173fc2-a574-45e1-b369-943963f92b3f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300589/00300589_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dda3fd85-12d0-4b2e-bf05-5e7eec5f3112",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300589/00300589_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a0ff6c87-3776-4c56-b900-5425b866bf9f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301279/00301279_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3edc421b-fe57-4711-b283-b69992755305",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301279/00301279_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0b0c65c7-15c5-4a6a-8eab-e2d21ba13000",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301279/00301279_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "813e4475-9f34-464b-8cf9-b5636412aa90",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301279/00301279_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "671a9c7a-209a-4e5a-90f1-26d2eeb8405f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300587/00300587_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "783b041a-60f7-4590-a212-4792def57c10",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300587/00300587_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "11af5f31-23e1-43bd-a949-fd719fb759be",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301222/00301222_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9270e1ee-d24d-41dc-86b2-b8e546333038",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301222/00301222_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f9235ba2-6d33-4606-9e43-8c6052fff81e",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301222/00301222_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6b9439fd-06a8-4a6d-80ff-6b8f9b23f04d",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02300445/02300445_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "68613ce9-7d2b-4300-bbe7-f13ba8005bc8",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02300445/02300445_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0230afa0-bfcd-4d3e-ba63-f6e9b9a64b10",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00800806/00800806_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4590e7c3-840c-4376-a950-68ea2c0a6ec1",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00800806/00800806_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "38e09bc2-5574-43a3-a9be-eb44eabf651a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652863235/u5iig0h6xtxdhg036pql.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "06e8e462-0d35-4ae6-a1cc-3c00b5ce6d27",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652863249/vdhbz5ku4xevtistywts.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "2547428a-3c39-459d-9785-bb4b292d0b2b",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652863257/t9zhrhfhrvhxix51kv1g.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "681d1c06-d068-4135-9bab-cae081775ac3",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652863267/xc8ojja4r7ijjodbqdx8.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "6a89813c-8a59-4e94-affe-61c6e1e1f29a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652863282/t0na7crxqv6hqimdwfg5.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a4000b31-b235-44e2-8137-13049d54502d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652863293/amajvbgg6mpait4zlb1k.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "5004ef1c-9af9-4fda-ba52-17ac505725bd",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04101263/04101263_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ccd54b7e-c852-44f5-b7c4-b13f3d9159f6",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04101263/04101263_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "85104c38-c7de-4386-878e-1c72a22c9ebf",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04101263/04101263_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "839dd53e-2112-4600-824b-00b68b9d5e54",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02000579/02000579_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0ce19632-8726-4380-a1d8-0087d5b45837",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02000579/02000579_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ddfbdf41-ecf2-4aca-9042-50d68a591abd",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02000580/02000580_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b46987ac-ee35-4cf1-bd83-0797e4521661",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02000580/02000580_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b1004588-53de-4220-8a81-b245a6705786",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01800059/01800059_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "847a761c-247d-4f31-9b9d-864c9c013c27",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01800062/01800062_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1ab4f895-3528-4976-823b-98613d0991be",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01800062/01800062_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6b65a898-e1b2-4172-a2d3-712326088b73",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01800067/01800067_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e9d91a15-0f6d-49cf-af83-94b11832e331",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01800067/01800067_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "738bb176-7dea-4efb-bb5c-5c89ad531182",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/05601395/05601395_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "23bcefeb-4683-4635-8d3c-8d5637c7bdef",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/05601395/05601395_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1e44d428-c84c-40a4-a4e7-90b5a008b210",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401122/01401122_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2ed71bdf-bd11-4d09-b390-3fe83e742958",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401122/01401122_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bdd8c6c1-82d8-41b4-9e72-ed2c9d37376f",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3e40f2b2-0909-4315-8717-b0f5e2425959",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1649801353/dzkcvzw9swdwh9voxiry.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "f7374702-4b01-45ae-9876-9c2a65461ede",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04001206/04001206_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "127f13c8-507f-4054-afed-6bfce4bc96ab",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04001206/04001206_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2b74267d-f06e-4f54-81b0-01cfa550bf84",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04000494/04000494_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8ef784d0-aad9-4c3e-8b14-f2b9469181fa",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04000494/04000494_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5504981f-1a40-4f0f-92e0-a5fb70b1b4e1",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04000494/04000494_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c746b0b1-9fa8-465e-9ebf-293230632d2c",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02600387/02600387_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "754e82b7-a329-46e2-acc2-ced5280819bf",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/02600387/02600387_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5d3baa84-7823-4644-b33e-0b296713fd47",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04600549/04600549_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bf45da1f-87b7-4a17-b901-7f1c08d0ea67",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04600549/04600549_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b242df14-38b0-4634-97cf-316245265d2f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04600549/04600549_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0e2fe4bf-b072-4e1d-83e1-e5390aec5ac0",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a0667fcb-d2d7-4689-af76-ae07718d5f89",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "099002c8-4f37-4a3d-a435-c36c0ee44b12",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04600556/04600556_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "87ccb249-e089-4841-8e90-3f164cc74028",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04600556/04600556_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4c523c73-c93e-425d-b262-fa1e56512d06",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/04600556/04600556_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4aef2629-f770-4cb2-b505-8630456c6fa1",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300593/00300593_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5705f186-0e40-4a9f-b5ff-d40e4f0ced29",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300593/00300593_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1274fdb9-b950-4d44-8b68-450578280f4c",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300591/00300591_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "086728a7-1b27-4ef4-a751-4d0056253644",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300591/00300591_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "427da77f-cc70-405e-b147-30ab0f90bf7f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300590/00300590_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bfa83fb1-afda-4c17-885f-67db39302889",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300590/00300590_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "380c486e-0564-456a-b5bf-fe0afc343b38",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300590/00300590_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "42431aa0-db32-465c-90ad-a0fb409215fc",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00901097/00901097_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "32250665-41f4-40ff-a452-a3232a762898",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00901097/00901097_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0582bd88-7abc-4a30-ad1a-64cdd89d75c4",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3dc27a45-2b9d-4b19-a06f-64f2109d5b31",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301282/00301282_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "218aacfb-9894-4577-b5a2-6ca22c8d9c45",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301282/00301282_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "899a2c82-d18e-413b-b2db-f7c38dcee1ec",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301037/00301037_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3b07d2e6-0d71-4ac1-bcac-7271fdc0ced4",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301037/00301037_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9d3c7864-5908-451b-9304-c32e8cc7cc89",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00301037/00301037_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c9e69294-41ea-42a0-96cc-96322381b943",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300933/00300933_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f81e0cf8-eb25-455b-abc0-5e4aea02855c",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300933/00300933_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f91c804e-c271-482b-9f99-a799e6744ce5",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00300934/00300934_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "258a5967-90a7-4cb4-9eaa-05092113021e",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401217/01401217_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "74e1194a-21b8-4c16-96c9-c3788e5c1acc",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401217/01401217_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8636920f-abab-4894-9b32-74318abf8f8d",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401217/01401217_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e9f8dacc-1921-4895-a78e-1e5dbe16ac76",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401114/01401114_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d1a20f99-19f7-402a-90e4-f580a829e0fa",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01401114/01401114_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ce37c558-4744-4f16-a589-6391e54f3487",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00700951/00700951_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ad3c916d-6970-4404-a539-62eb6f9858fd",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/00700951/00700951_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0393188e-cdf1-4f16-9fe4-9fcac53cfeec",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/03100538/03100538_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9b704efb-e4fb-47ad-afcc-ec7cad12fa12",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/03100538/03100538_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cf38a8bc-c268-4f93-8d2d-a4da61223d2c",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1576730679/snvvex43alsu9ntqn7bt.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        }
+      ]
+    }
+  }

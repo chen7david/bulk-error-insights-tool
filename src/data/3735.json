@@ -1,0 +1,279 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "2697f930-7e01-4f20-9fb7-ddb4a97a1296",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1673466664/uppq0iijtmxnnrul0jn2.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "9cb44f7a-19fd-4e82-85ff-2b60e0704280",
+          "value": "https://cdn.ocs.ca/img/200037/802359000201_a1c0_compress_200037.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c72909d9-8954-48c0-9997-3610bce04f2b",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657483507/bvdzkahugjnowokgy73g.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "be8da2e5-7a5f-42cd-a571-7c23af176197",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1673463585/fxf0fseanmucb247sked.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "92333422-94e8-4efa-88fe-7e48d4e3f13f",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660840746/x4jeixoexkohxsthbog7.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "24c8cb7c-aa5d-4f14-a33e-bfcabd0bd27b",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1673462211/ychzveooa5mhzdadhpao.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "f70fd5d3-dfa6-49b1-b30d-65b94c9a4d69",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "bc924640-7dec-4897-a5b6-fb36a623e29b",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1686358300/fyfyrgpsgjzztkhpqkrh.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a427fe0f-319e-47a4-89e1-0237807722f3",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1681780031/c0dee3g1d2jb78tduout.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "2e0b97f2-5843-4012-9739-8bb7a3240611",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660841032/qr1fzrh9dae3xrinhwiv.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "0a119332-4fe4-4e6c-ad8f-40f2d2aa16a2",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660840970/unhdkjtgzitirznzkfro.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "5d2e7692-406f-4b64-b961-792b5147f668",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "75f4aae7-4532-4ba2-ad8f-966f0ad73611",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "21c79e44-4493-4e59-8bac-a3472c890ab6",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660852081/jo6epyhg78s5gro9uxh0.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "793e68ec-9d16-4f5e-879b-3f8eed8e7367",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "9412e32c-eabc-4df1-82a3-ec5bbc741632",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1618078609/vrsw3cmplm1r00is9bql.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "e5648ed6-ae13-4878-8c96-fa2405518e1e",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "25740a21-643a-4008-9abb-5da705c414b2",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1621097920/topfwi55xhqwng8ivp15.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "81cce086-b994-413c-b54c-0169427374cb",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1621097887/mklzyeoibcfusnqatpsj.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "7a3cbb94-2d28-4119-874c-5e6cb19e7606",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1653858898/hzw51eeqkd5lg15jvbrq.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "d8c3bb00-5b30-4c0f-abe4-0a6eb8f2143e",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1673466291/npy340miua0rdk2hrhoi.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "ff4b39b9-3c17-450e-9290-97bea5e1305d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1673466352/tr3u3a9wbtnfuz98wxwk.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "24d010b8-0633-4992-8e0f-4e3d79ee9390",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1642360059/rkgtj7vbchw4xe85gyws.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "87f62ac9-7adb-4e01-bb8e-2be0a00d5d19",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1658967047/vniabaogd0xsatw04xly.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "f9b34618-73d9-4f9c-b07c-8b6724eb1c38",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1649637535/sa1p11m7xbcunzhrhz5t.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "27e76a25-31c9-4377-9063-edaf97a8cfc9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1664989993/cgzbcc8xkr9uyjx4ovub.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "efbcb27f-e893-4e50-845c-bd04863caf7f",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1673462021/ifidouznhcrckeixbkq7.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "217f7bb8-b70c-4998-8da7-31c635f1f3e0",
+          "value": "https://cdn.ocs.ca/img/320058/00826966012082_00_compressed_320058.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "56102076-e55a-4ebd-910e-73e58fc3ac25",
+          "value": "https://cdn.ocs.ca/img/320032/00697238200106_a1c1_compress_320032.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "349ee847-490f-46e7-bc3a-593dab51c5d7",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5f172924-48dd-48eb-81e5-7258f99358ca",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1613313757/vomkaatfhokjdgcnamol.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "b28a7b69-3160-43ed-bd4a-4558d6a44ae2",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320045-00826966011825-a1c1-compressed_480x.jpg?v=1595364141",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e5d50469-39a9-4373-9d7e-51ff5a6851d9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660840484/oewbb3qs2ro8vpus115z.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "eb644af6-9450-4f9a-ab9e-a5a5ece76080",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1671304465/tvoehbnqolcvkke168mh.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "aea03e6b-58cd-438f-bd23-fdf60a352775",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669668456/bylpgb8sxskznc61ynsc.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "9bcb2872-7f37-47e6-a41f-dfac9f090a14",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660842580/mlmev2saxgjghuds1ni8.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "78630b9d-f7a0-41e4-a387-3f3b749be96f",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1671066108/fqpgptoperfdamzlwa9u.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "c3abfc21-7125-4caa-b2ba-d93149a280f7",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1670213706/nsfnxsfvjk0bsfwuvwrd.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "44afc296-db00-4864-9e1f-e294a61ac7b3",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669668421/bjockn4lmyjzwdpgkm8i.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "06cb4def-7cbf-4315-a578-092b10d0e52a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1660840620/iydujvu5111wu4g12vdt.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "4dfdfd96-b6b4-40ba-8f80-f8c15338bbbc",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "bd01968c-c255-43ee-bdb0-ce53e6ad6fdd",
+          "value": "https://cdn.ocs.ca/img/320033/00697238205033_a1c1_compress_320033.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c54fbeec-1c1b-43c3-a932-f3c79b1952b0",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1671065633/jiinfardgvejcw986yqw.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "015f20a8-5953-4472-8b9e-985a2cdcf0d2",
+          "value": "https://cdn.ocs.ca/img/320042/00697238203008_a1c1_compress_320042.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "afa3a579-b53c-4423-9e51-e64b96911d3e",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        }
+      ]
+    }
+  }

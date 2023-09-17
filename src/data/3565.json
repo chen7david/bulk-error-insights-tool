@@ -1,0 +1,135 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "f2a9c923-6f03-4e84-b4f2-c1e38aa73150",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679441940/m4utfsllcmxgccp6lni1.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "712eb119-d995-4864-831e-3ab36181841a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679441475/ig3vtqhf81ppp6ssyqmo.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "66aa8159-b625-43bd-928f-65f036218ee9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679441205/eopbtzmirjjrzhuwm8pi.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "0e0b82af-3d54-43b2-9163-1384519acc25",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679442309/mdyqupl6fidy8jvyp6gz.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "c720cbc2-6676-40f5-85e5-152032b44d6c",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679442143/nmfvsjf6fsucfg6q6qfk.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "db9e5ada-ceb8-438e-85cb-20c9dfacdb23",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679442736/kek4z0faztkqeshbq1iv.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "fccc12c2-f662-4610-a170-4adc2116e4b9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679442461/nnhzlsh3e8yobazl9rn9.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "8c84740b-60ff-4235-86db-f566ea1bc4fd",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679443728/djch4egbaophp5bbh5vo.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "aec744d3-4d93-43af-a976-e86f40c93344",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1676674537/w2wyoglsxhezlcnzzkym.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "6ffa2d10-88ba-4271-bcaa-c82ac7555277",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679443327/evhdjjbfkelihx9i3v4m.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "b2e56179-1363-499a-bacb-b8971347913d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679443066/vvhokuihep6pdnlyactl.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "8e20e78c-c59c-4554-a919-de930b2ffacc",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679443895/ps6htcxtkgabm0e8vtjh.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "31c31939-5616-4d0a-b57f-f280b8577a43",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1676673161/st4j1dtaa0gieij0awgd.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "7d50a4fe-b33d-430f-b9ac-851fdd66bcc2",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679447595/xxmxujvzu6qitclmr8hd.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "211492a2-ca94-4aed-8927-63ab8620121d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679446511/rgdmr1l2etmceggn8odf.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "bb3583c1-fdc2-48d8-b363-7c6927c04077",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679447271/pw7smurjyysyyngmki0k.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "792a749c-bf9f-4fef-a003-24d19abb7452",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679446708/pcgjfjmiswmwg2fqrkt2.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "e6c02add-90e7-4f9e-82ab-64695a382060",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679447479/sswqfmqnfdzgcat8jtgf.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "d4fef810-a5b0-44f9-8265-cf1c784b0909",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679446379/gduktnnynyrh7psork2e.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "01dc2ec1-5582-4250-9804-9ba41ee352a4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679447170/g3f99k2sp30tgmfoenz0.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "57641a9a-0772-4ce3-aa46-a89a8ba9c252",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1679447030/rhuwb5ejaaxhrxhiehvf.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        }
+      ]
+    }
+  }

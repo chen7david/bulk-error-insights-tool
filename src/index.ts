@@ -15,6 +15,15 @@ const run = async () => {
     const frequencyInsigths = Parser.getTalliedErrors(tallied)
     const csvData = Parser.transFormToCSV(frequencyInsigths)
     fs.writeFile('./report.csv', csvData)
+
+    // const temps = await fs.readdir(path.join(__dirname, 'temp'))
+    // temps.forEach(async (file) => {
+    //     const fileName = file.replace('.csv', '.json')
+    //     const filePath = path.join(__dirname, 'junk', fileName)
+    //     await fs.writeFile(filePath, '')
+    //     console.log(filePath)
+    // })
+    // console.log(temps)
 }
 
 run()

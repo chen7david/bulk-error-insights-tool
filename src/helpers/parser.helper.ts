@@ -22,7 +22,7 @@ export const readDir = async <T>(folderPath: string) => {
 export const transformCustomReposeToBulkError = (fileObjectMap: Map<string,ICustomErrorResponseContract<IBulkErrorResponseContract>>) => {
     const bulkErrorsMap: Map<string, IBulkError[]> = new Map()
     for(let key of fileObjectMap.keys()) {
-        const [companyId] = key.replace('prod-', '').split('.')
+        const [companyId] = key.split('.')
         const oldValue = fileObjectMap.get(key)
         const newValue = oldValue?.customErrorObject.details ?? []
         bulkErrorsMap.set(companyId, newValue)
