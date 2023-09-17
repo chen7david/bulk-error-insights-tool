@@ -1,5 +1,6 @@
 import * as fs from 'fs/promises'
 import * as path from 'path'
+import * as papa from 'papaparse'
 import { 
     ICustomErrorResponseContract,
     IBulkErrorResponseContract, 
@@ -45,4 +46,65 @@ export const tallyBulkErrors = (bulkErrorsMap: Map<string, IBulkError[]>) => {
         tallyMap.set(key, talliedBulkErrorMap)
     }
     return tallyMap
+}
+
+export const getTalliedErrors = (tallyMap: Map<string, Map<string, IBulkError[]>>) => {
+    const talliedCompanyIdMap: Map<string, Map<string, number>> = new Map()
+    for(let companyId of tallyMap.keys()){
+        const talliedCategoriesMap: Map<string, number> = new Map()
+        const items = tallyMap.get(companyId)
+        for(let category of items?.keys() ?? []){
+            const errors = tallyMap.get(companyId)?.get(category)
+            talliedCategoriesMap.set(category, errors?.length ?? 0)
+        }
+        talliedCompanyIdMap.set(companyId, talliedCategoriesMap)
+    }
+    return talliedCompanyIdMap
+}
+
+export const transFormToCSV = (tallyMap: Map<string, Map<string, number>>) => {
+    const headers = ['messages', ...tallyMap.keys()]
+    const csvData = [headers]
+    const messageColumnCategories = getErrorTypes(tallyMap)
+    const getMessageRowNumber = (message: string) => {
+        const index = messageColumnCategories.findIndex((e) => e === message)
+        return index !== -1 ? index + 1 : undefined
+    }
+    const getColumnIndex = (message: string) => {
+        const index = headers.findIndex((e) => e === message)
+        return index !== -1 ? index : undefined
+    }
+    messageColumnCategories.forEach((errorCategory) => {
+        csvData.push([errorCategory])
+    })
+    for(let header of headers){
+        if (header === 'message' || undefined) continue
+        const columnDataRows = tallyMap.get(header)
+        if(!columnDataRows) continue
+        for(let rowDataKey of columnDataRows.keys()){
+            const rowData = columnDataRows.get(rowDataKey)
+            const rowIndex = getMessageRowNumber(rowDataKey)
+            const coumnIndex = getColumnIndex(header)
+            if(!rowIndex || !coumnIndex) continue
+            const values = {
+                rowIndex,
+                coumnIndex,
+                rowData,
+                rowDataKey
+            }
+            csvData[rowIndex][coumnIndex] = `${rowData}`
+        }
+    }
+    const csv = papa.unparse(csvData)
+    return csv
+}
+
+export const getErrorTypes = (tallyMap: Map<string, Map<string, number>>) => {
+    const errorTypeSet: Set<string> = new Set()
+    for(let subMapKey of tallyMap.keys()){
+        [...(tallyMap.get(subMapKey)?.keys()) ?? []].forEach((e) => {
+            errorTypeSet.add(e)
+        })
+    }
+    return [...errorTypeSet.values()]
 }

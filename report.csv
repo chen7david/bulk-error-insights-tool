@@ -1,0 +1,5 @@
+messages,2107,2315,2349,2574,2917,2922,3014,488,591,701
+"Please ensure ""Image URL"" is valid",600,,,,171,,,5,,97
+"Please ensure ""Image URL"" has a valid URL ending in .jpg, jpeg, .png, .gif",9,66,70,,436,75,40,10,43,223
+"Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL",10,10,5,19,30,5,124,9,,5
+"Please ensure ""Receipt Description"" has a maximum of 255 characters",,,,,,,1,,,58
