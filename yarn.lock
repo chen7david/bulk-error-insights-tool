@@ -9,6 +9,11 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@getgreenline/products@3.16.0-beta.1":
+  version "3.16.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@getgreenline/products/-/products-3.16.0-beta.1.tgz#a77db9e6324add16d4329cdf5f640db4212ae328"
+  integrity sha512-T0RgeD5AcPQDmd6KSeUByFvN7tdnFtOq3rOjYJMElhh8pfUgkPvkaxXksE4XLoGMtDZmjOClb+Awk4gOa6brpQ==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.1.tgz#c08679063f279615a3326583ba3a90d1d82cc721"
