@@ -7,8 +7,10 @@ import {
 } from '@getgreenline/products/build/models/product'
 const run = async () => {
     const folderPath = path.join(__dirname, 'data')
-    const bulkErrors = await Parser.readDir<ICustomErrorResponseContract<IBulkErrorResponseContract>>(folderPath)
-    console.log(bulkErrors)
+    const bulkErrorResponses = await Parser.readDir<ICustomErrorResponseContract<IBulkErrorResponseContract>>(folderPath)
+    const bulkErrorsMap =  Parser.transformCustomReposeToBulkError(bulkErrorResponses)
+    const tallied = Parser.tallyBulkErrors(bulkErrorsMap)
+    console.log(tallied)
 }
 
 run()
