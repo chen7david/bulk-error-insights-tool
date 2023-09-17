@@ -108,3 +108,20 @@ export const getErrorTypes = (tallyMap: Map<string, Map<string, number>>) => {
     }
     return [...errorTypeSet.values()]
 }
+
+export enum EErrorCategory {
+    IMG_URL_VALID = 'Please ensure "Image URL" is valid',
+    IMG_URL_EXT = 'Please ensure "Image URL" has a valid URL ending in .jpg, jpeg, .png, .gif',
+    CBD_THC_UNIT_VALID = 'Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL',
+    RECEIPT_DESCRIPTION_255 = 'Please ensure "Receipt Description" has a maximum of 255 characters',
+}
+
+export type TGetCategoryBulkErrors = {
+    companyId: string,
+    errorCategoryType: EErrorCategory,
+    talliedBulkErrors: Map<string, Map<string, IBulkError[]>>
+}
+
+export const getCategoryBulkErrors = ({ companyId, errorCategoryType, talliedBulkErrors }: TGetCategoryBulkErrors) => {
+    return talliedBulkErrors.get(companyId)?.get(errorCategoryType)
+}

@@ -15,7 +15,13 @@ const run = async () => {
     const frequencyInsigths = Parser.getTalliedErrors(tallied)
     const csvData = Parser.transFormToCSV(frequencyInsigths)
     fs.writeFile('./report.csv', csvData)
-
+    const c614_ext_errors = Parser.getCategoryBulkErrors({
+        companyId: '2917',
+        talliedBulkErrors: tallied,
+        errorCategoryType: Parser.EErrorCategory.IMG_URL_EXT
+    })
+    const c614_ext = c614_ext_errors?.map((err) => err.value)?.map((err) => err?.split('.').pop())
+    const c614_ext_unique = [ ...new Set(c614_ext)]
     // const temps = await fs.readdir(path.join(__dirname, 'temp'))
     // temps.forEach(async (file) => {
     //     const fileName = file.replace('.csv', '.json')
@@ -23,7 +29,7 @@ const run = async () => {
     //     await fs.writeFile(filePath, '')
     //     console.log(filePath)
     // })
-    // console.log(temps)
+    console.log(c614_ext_unique)
 }
 
 run()
