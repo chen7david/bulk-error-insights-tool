@@ -1,0 +1,153 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "5e375dfa-9245-4882-8f46-2539dd602d5a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632351892/h4xhrlwploixoqnr2baq.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "2d8cb73e-3594-4a3f-b9dd-157eeda5fabb",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1650473353/lijpghh7hqiumuipxij2.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "26d9e05d-85a8-4125-aa75-cd3baeef3ec3",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1650473353/lijpghh7hqiumuipxij2.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "5ecb3de0-cea9-4fdb-b142-4bcd0872c08f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01600026/01600026_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9169c30d-df09-4a34-9886-c8512ecf5300",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01600026/01600026_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "18f76c91-34d0-40e8-a05f-80e4733d69f0",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01600026/01600026_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3f3c578f-1018-4c6f-9811-4d5bef8d04ca",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01600026/01600026_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4219496a-7fde-47c3-bce1-c192f5fe901f",
+          "value": "https://cdn.albertacannabis.org/-/media/images/cannabis/01600026/01600026_1.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a5c624f6-8837-4948-bbe8-1498a57627f9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632090579/yyuawb65byxj6bqr8udo.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "e0e5782d-ec4b-49d7-b58a-aaa257596c50",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1550789188/d7vppii1zhazdvrajdqp.bmp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a0260fa4-2309-48f3-a27d-2fa687332bc0",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a470216c-c638-4bec-98bb-766d8b65e67a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632543770/apjbkg4msyibf7ea93sp.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "8d127a0e-3eea-4875-ba05-8f1e3d435551",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1632161073/bxcygtbxsmf7dohwtdaw.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a95bdd6a-267f-4778-b99a-3e6c27612953",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3b6e96e6-5fe9-4a21-af0a-bd0856192dc0",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "0b444b12-9eef-4e36-b4a8-48e94211fafd",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1ca8f5ab-0f1a-4df5-909a-7998c7fa5c33",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a0d36db1-cafd-40ab-81ac-14f7ff006edf",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e31a490c-dee1-4a5c-b57a-5c27505033a5",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "2f037bf3-30e3-4b22-afa9-39ef0de09828",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1648245057/pq8nlud20rjavdpximqf.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a7b66fcf-769c-4645-9ab3-19282db31220",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1651771913/bandpeomy9nvgbrwz89e.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "7236db90-44ee-4f22-86f7-1abd9cda2df4",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b5f1f7b8-af9d-4d31-8026-af0d74a2ef48",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657645212/sgrvga8emnuvpbz1a5gw.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "c485bbae-e9ec-436a-874e-b521595cf3e6",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        }
+      ]
+    }
+  }

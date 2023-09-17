@@ -1,0 +1,3723 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "ad5d452a-582e-480b-b955-316f4d469a92",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330026-00826966011757-00_480x.jpg?v=1580167828",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dba450b1-6f34-4b1b-9d53-bfe148fe703f",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330026-00826966011757-00_480x.jpg?v=1580167828",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "743c00c8-3edc-4cad-bfdc-681a12639373",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1693406486/ui8oaohglqycs5mkowfu.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "61eb22e5-a04d-4681-b091-00f648dc5a2f",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101022-00827912000474-00_480x.jpg?v=1572365301",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "71594400-b00b-46db-af08-4a9c9db3c70a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101022-00827912000474-00_480x.jpg?v=1572365301",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2d1cdd1d-e604-4c18-8e6f-dfd51e3d17d0",
+          "value": "http://52.60.121.34/upload/101022/00827912000474_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b9da6271-f25c-46f9-8e07-454a0da47e9d",
+          "value": "https://cdn.ocs.ca/img/101732/00628242050678_a1c1_compress_101732.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d35b0f48-5de9-495d-aac6-4a3b2f3e12d7",
+          "value": "https://cdn.ocs.ca/img/101732/00628242050678_a1c1_compress_101732.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f3a750af-d8c9-443e-9636-82c7dd9fa97f",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1687794023/euf5d3gwiutgouybzufm.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "23ed94b6-a325-4458-85b6-ce7d9930fa9d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1687794015/vsxd0tdx9p5lmcijbspt.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "698df24a-6c7f-4e98-9ee6-ddd315f4063e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300133-00628639000347-00_480x.jpg?v=1587026268",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "aefa55aa-4ee6-4112-9d5d-fcab9ff264eb",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300133-00628639000347-00_480x.jpg?v=1587026268",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "48bb6c0c-144b-417d-bed6-a5cb7d3fa0f7",
+          "value": "https://cdn.ocs.ca/img/300160/00628639000200_a1c0_compress_300160.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ebb8f2cf-7285-4715-80e8-1fa40e82fc16",
+          "value": "https://cdn.ocs.ca/img/300160/00628639000200_a1c0_compress_300160.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0e10a8fb-153b-4b9c-8e36-336bc8532fc7",
+          "value": "https://ocs.azureedge.net/img/101761/00826494000148_A1C1_compress_101761.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fa8d3e8c-180d-4d67-a304-ac7155726ef9",
+          "value": "https://ocs.azureedge.net/img/101761/00826494000148_A1C1_compress_101761.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "90f27d3d-de58-4a45-9885-5d55d63367d1",
+          "value": "https://cdn.ocs.ca/img/101817/00895689001048_00_compress_101817.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "50ca1de0-684a-46d1-be59-00f515c7ce64",
+          "value": "https://cdn.ocs.ca/img/101817/00895689001048_00_compress_101817.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0446d66f-b3fd-41a4-aa45-0fc0e94516b9",
+          "value": "http://52.60.121.34/upload/340002/00842865000517_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a717d4b5-1dd2-40b8-82c3-e9aa02e206e6",
+          "value": "http://52.60.121.34/upload/340002/00842865000517_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "62ba847b-0a92-4d29-891d-9b59b96c9f40",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-340001-00842865000531-a1c1-compressed_480x.jpg?v=1583765053",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4a4f6385-5046-4da0-a28d-892112986a63",
+          "value": "http://52.60.121.34/upload/340002/00842865000579_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bc9fc610-75af-4a36-8d0b-f951475d86a3",
+          "value": "http://52.60.121.34/upload/340002/00842865000579_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e9bbe23b-1bf2-411f-a914-9497916d8d08",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330012-00826061200827-00_480x.jpg?v=1579160439",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4db67938-3f40-4408-8502-64232f4f1d49",
+          "value": "http://52.60.121.34/upload/330011/00826061200841_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "65ad0c9e-9bbb-4d52-8a89-969088cddd19",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ba09f924-419a-4dcd-9a42-4fb26a9d82e5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100707-00697238111259-00_480x.jpg?v=1571262367",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "befe59b6-4ae2-4441-8681-162ac8935407",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100707-00697238111259-00_480x.jpg?v=1571262367",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "edf3ca74-1385-4876-a53f-715421d34dc6",
+          "value": "https://ocs.azureedge.net/img/00671148401389_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "393af55e-8bfe-4307-8345-a7a4d4947446",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101401-00671148601000-00_480x.jpg?v=1595452336",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4d754f6f-4323-4403-931b-62bf19b992d6",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101402-00671148601024-00_480x.jpg?v=1595452451",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dc198677-c467-4501-b635-1ba72d851991",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101402-00671148601024-00_480x.jpg?v=1595452451",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2df63acc-c202-49cf-b7b3-fa80865a5cc3",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320021-00688083002762-a1c1-compressed_480x.jpg?v=1587403231",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c7aff25d-fd9f-4871-b628-c5c8ea599e86",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320021-00688083002762-a1c1-compressed_480x.jpg?v=1587403231",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "411b123f-67ab-4638-830a-a0fe3c33aa22",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300015-00694144003654-00_480x.jpg?v=1579160370",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1e8ff8e5-3684-4ab8-b4ce-152a20f291ec",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300015-00694144003654-00_480x.jpg?v=1579160370",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2f5d208f-ccd1-41ee-9792-85e7f97b0d6c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300020-00694144003678-00_480x.jpg?v=1579160372",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dc200bfc-adf7-480f-b90f-5cb70a25806c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300020-00694144003678-00_480x.jpg?v=1579160372",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0963b753-f1d0-4370-9fa5-ed1216af28e2",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101088-00688083002731-a1c1-compressed_480x.jpg?v=1571262373",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cc9245f2-54ab-47ae-acfe-b2f496a6e772",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101088-00688083002731-a1c1-compressed_480x.jpg?v=1571262373",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4ec524a9-740a-460c-8597-f8dc94b2fec0",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320012-00628055980568-ac1c1-compressed_480x.jpg?v=1587403226",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5495517a-1ce8-4cab-befb-6139979c1a74",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320012-00628055980568-ac1c1-compressed_480x.jpg?v=1587403226",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "99ae8ec7-54ea-42a2-ab31-d66c7bd5858c",
+          "value": "http://52.60.121.34/upload/101699/00688318000136_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "681e6bb6-5242-4a29-b762-e89b63fbea0b",
+          "value": "http://52.60.121.34/upload/101699/00688318000136_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "844b8d1e-eca9-4e63-93f5-ddfcb6274946",
+          "value": "http://52.60.121.34/upload/101544/00688318000075_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a1634a7e-a8e2-488e-9eb0-b0d544072bb9",
+          "value": "http://52.60.121.34/upload/101544/00688318000075_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ea841fc2-fb29-4c92-bebb-20ddce992b41",
+          "value": "http://52.60.121.34/upload/101514/00688318000099_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "79dfae9d-283e-40fc-9db9-19e2a6eb3719",
+          "value": "http://52.60.121.34/upload/101514/00688318000099_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9db2ac52-534b-4d27-bfd4-e6aae763184f",
+          "value": "http://52.60.121.34/upload/101517/00688318000112_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "56f527e9-5884-45fc-a692-7fd3273dce97",
+          "value": "http://52.60.121.34/upload/101517/00688318000112_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b82996fd-da19-44b3-b280-4f3bf8cbed91",
+          "value": "http://52.60.121.34/upload/101547/00688318000082_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "41459856-7235-427b-8fdb-ef2494406f7a",
+          "value": "http://52.60.121.34/upload/101547/00688318000082_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ec160cc0-00cc-4eee-a5cd-8ff509202ef3",
+          "value": "http://52.60.121.34/upload/101515/00688318000044_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "59c4ecca-7c5c-4027-8be9-0506746c1761",
+          "value": "http://52.60.121.34/upload/101515/00688318000044_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "da47a022-81f9-4deb-804e-73074e0efedf",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "737de378-54f6-48fc-894f-9456373c289d",
+          "value": "https://cdn.ocs.ca/img/101680/00628055002024_00_compress_101680.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b23a9676-6295-4182-a8ed-ccafa12940a2",
+          "value": "https://cdn.ocs.ca/img/101680/00628055002024_00_compress_101680.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "565268b2-5c59-4ff3-9495-e5470134f604",
+          "value": "https://cdn.ocs.ca/img/101974/00627570220616_00_compress_101974.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "804d47c5-ae69-4c00-9608-9d4411a1918e",
+          "value": "https://cdn.ocs.ca/img/101974/00627570220616_00_compress_101974.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "803a663d-01e5-4e5a-bbf9-e668bcb35a81",
+          "value": "https://cdn.ocs.ca/img/101712/00827763001613_00_compressed_101712.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "17f17dec-6316-44af-a613-6662d4a661a7",
+          "value": "https://cdn.ocs.ca/img/101712/00827763001613_00_compressed_101712.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4d361644-ed09-4a17-9957-99e26ccda2ed",
+          "value": "https://cdn.ocs.ca/img/300241/00827763001354_00_compressed_300241.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9308223e-f824-4cfe-98f1-f5b605c6d896",
+          "value": "https://cdn.ocs.ca/img/300241/00827763001354_00_compressed_300241.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3573b651-53c7-4135-9867-23a64440b1ca",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1614804898/jonyhhuf0vyre3s1ydut.heic",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "260c05ac-1b9b-457c-b4d1-a2c5446cbe10",
+          "value": "https://cdn.ocs.ca/img/101822/00628242801133_00_compress_101822.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "238319b0-5200-4996-913e-613f50375fa9",
+          "value": "https://cdn.ocs.ca/img/101822/00628242801133_00_compress_101822.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5737bf01-bc0a-4037-890e-1f224850f498",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300123-00628639000231-00_480x.jpg?v=1582818267",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f564d03a-884d-42fb-aeb3-e9819655faab",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300123-00628639000231-00_480x.jpg?v=1582818267",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b53a897d-4f6a-4545-80c9-facc7a78e324",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300023-00694144003715-00_480x.jpg?v=1582055031",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cb95ecb5-841d-4b8d-8f06-d000ae4525f2",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300023-00694144003715-00_480x.jpg?v=1582055031",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "da24810c-137a-42c2-8922-44a3436cd39b",
+          "value": "https://cdn.ocs.ca/img/300289/00751257000021_00_compress_300289.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2f0bb92a-e5d9-49a7-a006-86c4720e0969",
+          "value": "https://cdn.ocs.ca/img/300289/00751257000021_00_compress_300289.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e4bcff14-803a-4df2-be4a-d11bb3881f8d",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101334-00694144004491-00_480x.jpg?v=1585002816",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cb406570-a0be-414d-a03a-b2148d8d5874",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101334-00694144004491-00_480x.jpg?v=1585002816",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a8cfabfc-be90-42cb-ae14-8f54ef8a64a4",
+          "value": "https://cdn.ocs.ca/img/101943/00628188001475_00_compress_101943.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "72dc9385-68b8-4e4c-a89b-9cd0eb757887",
+          "value": "https://cdn.ocs.ca/img/101943/00628188001475_00_compress_101943.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d63d5b35-303c-4bd3-a16e-9d5f1dfc7fcc",
+          "value": "https://cdn.ocs.ca/img/330104/00851653000059_A1C1_compress_330104.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "83118ef0-c04d-4815-8f99-74d9a098725c",
+          "value": "https://cdn.ocs.ca/img/330104/00851653000059_A1C1_compress_330104.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "20a9437b-55f9-45e2-96f6-321887f17dd3",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101029-00628242800112-a1c1_480x.jpg?v=1585873630",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "72d2afb6-2e19-4d65-8fd1-899f6c087655",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101029-00628242800112-a1c1_480x.jpg?v=1585873630",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "68bef5e6-d85d-44f2-9411-103db51dec38",
+          "value": "https://cdn.ocs.ca/img/101984/00800447000218_00_compress_101984.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0ee6132d-d613-422b-883b-8afe60e47d6d",
+          "value": "https://cdn.ocs.ca/img/101984/00800447000218_00_compress_101984.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "17f29da6-5af2-45a3-8f39-e0fad17ebbca",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310004-00675136001247-00_480x.jpg?v=1581611896",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7534b02d-104f-47ea-8714-58b585422f5a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310004-00675136001247-00_480x.jpg?v=1581611896",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4face678-0ebb-4470-877e-fe1d1c7496c1",
+          "value": "http://52.60.121.34/upload/310003/00675136001001_01_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2bb18004-e868-4978-bdf8-5654753b89df",
+          "value": "http://52.60.121.34/upload/310003/00675136001001_01_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f848e2cb-ee51-4995-9187-1ca5023c7da9",
+          "value": "https://ocs.azureedge.net/img/00675136001520_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "584d02de-31f9-420e-9385-bef235b383e4",
+          "value": "https://cdn.ocs.ca/img/102025/00751257000816_a1c1_compressed_102025.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7f2cd242-0270-4f19-bbca-6f8d1b5f0050",
+          "value": "https://cdn.ocs.ca/img/102025/00751257000816_a1c1_compressed_102025.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d58379a5-c288-4900-875b-e84aed7c8308",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101383-00827885002819-a1c1-compressed_480x.jpg?v=1591068259",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "57e5f2ba-1b8a-40fe-80dc-ac9440cdffca",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101383-00827885002819-a1c1-compressed_480x.jpg?v=1591068259",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6784f90c-8475-4bdc-855c-aa9441a9a9f8",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330053-00800447000539-00_480x.jpg?v=1590424638",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a95c22d1-0ba1-4804-b678-0f2c5e9c114b",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330053-00800447000539-00_480x.jpg?v=1590424638",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "51f015b7-0db8-49d9-8d0e-e65c36a8d6a4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101239-00629108113148-a1c1-compressed_480x.jpg?v=1583422372",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a56de2ae-8427-47b1-b2a7-72f03be9d536",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101239-00629108113148-a1c1-compressed_480x.jpg?v=1583422372",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "510562e7-b6cc-4d3d-a311-6a3785213043",
+          "value": "https://cdn.ocs.ca/img/101062/00628242242219_00_compress_101062.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a1cb095d-5774-4ce2-949f-3334de3b3e18",
+          "value": "https://cdn.ocs.ca/img/101062/00628242242219_00_compress_101062.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f3777d81-0d77-49d4-9f05-21c4fcb22811",
+          "value": "https://cdn.ocs.ca/img/101526/00671148401396_00_compressed_101526.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e8b09e41-6f4a-472e-983c-04416d9e73db",
+          "value": "https://cdn.ocs.ca/img/101526/00671148401396_00_compressed_101526.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7d7a5402-f202-4e24-8994-d2c1a8508795",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101471-00847023000866-00_480x.jpg?v=1591741730",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1af53a3a-b470-4ef9-8804-77a103043b0e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101471-00847023000866-00_480x.jpg?v=1591741730",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c0c10a9b-9354-46c2-8602-8c5d93c16230",
+          "value": "http://52.60.121.34/upload/101575/00628504701119_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a5c041cb-25b2-460e-9f98-bec4830d0065",
+          "value": "http://52.60.121.34/upload/101575/00628504701119_00_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f45ec4e8-a50b-4dc1-8c74-2f28d3f80a82",
+          "value": "http://52.60.121.34/upload/101575/00628504701119_00_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "75ba54b5-877b-4c48-a091-a6367bcd0d03",
+          "value": "https://cdn.ocs.ca/img/101950/00827763002078_00_compress_101950.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5b791c46-e68c-459d-ac95-8fa1e55f4b21",
+          "value": "https://cdn.ocs.ca/img/101950/00827763002078_00_compress_101950.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3744c27a-7acf-4560-b0b0-49d65a4941b7",
+          "value": "https://cdn.ocs.ca/img/101872/00628176636405_00_compress_101872.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f1213bde-7262-4b94-a58c-9379487f2657",
+          "value": "https://cdn.ocs.ca/img/101872/00628176636405_00_compress_101872.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fb13dd81-e30c-4571-bd2a-3491a680138f",
+          "value": "https://cdn.ocs.ca/img/101749/00697238113079_00_compressed_101749.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7306e628-fe2b-410b-ba14-67023042f215",
+          "value": "https://cdn.ocs.ca/img/101749/00697238113079_00_compressed_101749.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1e8bd5e0-edd5-4031-a9e1-03bc5e35eb2f",
+          "value": "https://cdn.ocs.ca/img/330118/00628011376015_00_compress_330118.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7b8352b1-297a-43d4-ba95-45abce70764d",
+          "value": "https://cdn.ocs.ca/img/330118/00628011376015_00_compress_330118.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2c124476-18ca-44d6-9704-8d3a1ac7bd5f",
+          "value": "https://ocs.azureedge.net/img/00827912000924_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d286516a-ec6e-4a22-89d9-7f96f7a7542b",
+          "value": "https://ocs.azureedge.net/img/00827912000924_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ade652a6-98ab-446a-9187-7f8a95217f3f",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101363-00827912000719-00_480x.jpg?v=1588015449",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1d71170a-3b23-466d-a822-b8ae6188b2ac",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101363-00827912000719-00_480x.jpg?v=1588015449",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f7fdd176-a8b1-4a4a-a24d-cc838244c7e5",
+          "value": "http://52.60.121.34/upload/101364/00827912000726_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "574029bc-0afe-436b-b14f-b79895c933d7",
+          "value": "http://52.60.121.34/upload/101364/00827912000726_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e5f0d0bf-99b2-483b-ae30-5b4323506712",
+          "value": "http://52.60.121.34/upload/320051/00688083002496_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5181ebb6-203d-4f77-9764-8a699bd7c6c3",
+          "value": "http://52.60.121.34/upload/320051/00688083002496_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5c25bce6-8b2a-4896-884f-8c1cde5633ba",
+          "value": "https://cdn.ocs.ca/img/101631/00628188000904_a1c3_compress_101631.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3d8857ed-84f6-4d41-850c-ffb58c745c88",
+          "value": "https://cdn.ocs.ca/img/101631/00628188000904_a1c3_compress_101631.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fcc6fc0a-16c0-40eb-b74c-0ec626546240",
+          "value": "https://cdn.ocs.ca/img/101904/00842943001252_00_compress_101904.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "98db40a9-25db-4e35-b70f-f20ddacfa2d0",
+          "value": "https://cdn.ocs.ca/img/101904/00842943001252_00_compress_101904.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5dd5db54-c381-43f7-9be6-3c0c18c19389",
+          "value": "https://cdn.ocs.ca/img/330044/00675136001445_a7c1_compress_330044.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4185d3d3-3ca7-4f86-90f6-bc83f871279c",
+          "value": "https://cdn.ocs.ca/img/330044/00675136001445_a7c1_compress_330044.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "53443e9c-2604-40f8-adb5-a79987121489",
+          "value": "https://ocs.azureedge.net/img/00671148406025_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1ee80c5d-9aea-4a73-bf0e-8427c93b39e2",
+          "value": "https://ocs.azureedge.net/img/00671148406001_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f5a7f1fc-667f-45d3-8afc-bdb5630ab632",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320025-00688083002779-a1c1-compressed_480x.jpg?v=1590601026",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b7df729d-96a4-4e74-bf3f-97cc24d52e5a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320025-00688083002779-a1c1-compressed_480x.jpg?v=1590601026",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3d887cb7-db43-457e-91c1-11b67a3b592b",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "f41ffa86-7afa-461a-9685-91d69f537595",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300080-00628242245050-00_480x.png?v=1579188626",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dc948347-3e91-4b31-94ef-8ea148ca55b0",
+          "value": "http://52.60.121.34/upload/320017/00827763001217_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "af3b1f2d-da31-4096-b83a-7133f8d1ad73",
+          "value": "http://52.60.121.34/upload/320017/00827763001217_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "31f289a9-9b5f-478c-8801-b278ae6866bb",
+          "value": "https://cdn.ocs.ca/img/320016/00827763001224_A1C1_compress_320016.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3a479b15-2b02-4820-a42e-ceba67465179",
+          "value": "https://cdn.ocs.ca/img/320016/00827763001224_A1C1_compress_320016.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8fde305e-4b76-4946-80c6-37e5f4fd5d3a",
+          "value": "http://52.60.121.34/upload/320046/00827763001279_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b1edb153-7a4c-4b65-b688-c5bb52575c0d",
+          "value": "http://52.60.121.34/upload/320046/00827763001279_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "117120b2-4fcd-4c5c-8f5c-7a5ca9a5d2a6",
+          "value": "http://52.60.121.34/upload/300210/00627560070603_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "47a930f4-554d-4891-b11c-9a32488fa935",
+          "value": "http://52.60.121.34/upload/300210/00627560070603_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cbeea3bb-c3be-47b7-80db-14cf3238c3cf",
+          "value": "https://cdn.ocs.ca/img/101682/00826061224014_a1c1_compressed_101682.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ae22a5af-a356-403c-9562-18b8bd28bfba",
+          "value": "https://cdn.ocs.ca/img/101682/00826061224014_a1c1_compressed_101682.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "aef60ec5-0dc8-46a1-bff1-8a9baba3be43",
+          "value": "https://cdn.ocs.ca/img/101871/00878865000059_a1c0_compress_101871.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "127562f3-9ec2-4cac-87c0-9838ecd7b605",
+          "value": "https://cdn.ocs.ca/img/101871/00878865000059_a1c0_compress_101871.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "49ceff40-0e98-4fe8-9dbb-8279b034262f",
+          "value": "https://cdn.ocs.ca/img/330078/00627965002148_00_compressed_330078.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c10d2991-bae5-44d5-9c85-a43608b907aa",
+          "value": "https://cdn.ocs.ca/img/330078/00627965002148_00_compressed_330078.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "34f12b13-487e-4549-b22a-c174c7176e00",
+          "value": "https://ocs.azureedge.net/img/00694144003319_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ec00f850-c0b3-4bde-bc9d-41d392fb1fba",
+          "value": "https://cdn.ocs.ca/img/100997/00694144007713_a1c1_compress_100997.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0725d34b-79f8-44a4-bc9a-b346e5e8d4d1",
+          "value": "https://cdn.ocs.ca/img/100997/00694144007713_a1c1_compress_100997.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8d918220-abe7-4590-a513-1e3473f42b5e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300148-00697238112034-00_480x.jpg?v=1589237897",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0c8063d9-91e7-467b-ab30-739f87737d2e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101114-00627560080602-a1c1-compressed_480x.jpg?v=1571775045",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ff1800fb-1a0a-42ce-bc5a-86d44278661e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101114-00627560080602-a1c1-compressed_480x.jpg?v=1571775045",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9bb86207-6f8b-4039-aa63-138adfeb1059",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "601044dd-0ead-4530-b59e-7f231dcf2636",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101537-00820423000018-00_480x.jpg?v=1595537591",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0869b290-573b-4a0e-b03d-02584812fe5a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101537-00820423000018-00_480x.jpg?v=1595537591",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b443ce74-a325-4fd6-a211-7cf7f44710d5",
+          "value": "http://52.60.121.34/upload/330038/00675136002169_A7C1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "48c03e38-d0c2-4dba-b780-956148d1f626",
+          "value": "http://52.60.121.34/upload/330038/00675136002169_A7C1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0b171715-e348-49d5-af57-5afe863995e3",
+          "value": "http://52.60.121.34/upload/330042/00675136001360_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4abf71c6-6c1b-4f46-ae56-7af226144a4c",
+          "value": "http://52.60.121.34/upload/330041/675136001322_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b4a73313-f304-415d-a064-589907dc145a",
+          "value": "http://52.60.121.34/upload/330041/675136001322_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9e50d92d-fe16-4e97-b9e9-a97242fb8d13",
+          "value": "https://cdn.ocs.ca/img/101776/00628250744958_a1c1_compressed_101776.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4c2a59c2-784c-44c6-949c-f5bc6dcc046b",
+          "value": "https://cdn.ocs.ca/img/101776/00628250744958_a1c1_compressed_101776.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d1b826c2-0ba5-415d-ad71-cc3d7f1fdfae",
+          "value": "https://ocs.azureedge.net/img/00690395000251_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3ff57351-1834-4fd0-9af9-e49f5742c244",
+          "value": "https://ocs.azureedge.net/img/00690395000251_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4f3dbc1f-b5b7-41df-9e97-107bb75d8a6e",
+          "value": "https://cdn.ocs.ca/img/340022/00694144008215_00_compress_340022.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b9c3576e-9a40-40f5-8866-736aa8ce50e0",
+          "value": "https://cdn.ocs.ca/img/340022/00694144008215_00_compress_340022.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "35b49e32-2694-4f6a-abd2-13019de0509b",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100418-00694144001872-a1c0-compressed_480x.jpg?v=1571262321",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "977a47e8-d2de-4720-b754-f2a66740cfcc",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100418-00694144001872-a1c0-compressed_480x.jpg?v=1571262321",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dbfc354b-e6db-4912-9462-c48d1b645b0d",
+          "value": "http://52.60.121.34/upload/310017/00842865001804_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "68282220-ebf9-48f7-abb6-3edc151edbcb",
+          "value": "http://52.60.121.34/upload/310017/00842865001804_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "76e433c3-4da1-4c7c-bbed-c4093b516502",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101449-00628242320405-a1c1-compressed_480x.jpg?v=1590078363",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "30bace6f-0fff-40ff-873c-88dc92bc56f8",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101449-00628242320405-a1c1-compressed_480x.jpg?v=1590078363",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ba16e6a1-eb1d-4195-a681-81c7dc0ddaaf",
+          "value": "http://52.60.121.34/upload/101392/00628242320153_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9ba56130-02c8-45ad-8518-9bed232c2f4a",
+          "value": "http://52.60.121.34/upload/101392/00628242320153_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4e9ea57b-8c64-436e-9d54-bd61bf96bbcf",
+          "value": "http://52.60.121.34/upload/101729/00842865002818_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dcccb5b6-72a0-4c4e-9e4f-69e65d80bb98",
+          "value": "http://52.60.121.34/upload/101729/00842865002818_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5ebdeaf4-d45c-4ba7-9aef-b45f77bd03a4",
+          "value": "https://ocs.azureedge.net/img/00182373000105_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f0271670-f9c4-4aad-a256-12473ea25dc3",
+          "value": "https://ocs.azureedge.net/img/00182373000105_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "85d9f378-f760-492f-9f9c-ceaef5b029f7",
+          "value": "https://ocs.azureedge.net/img/00182373000129_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "acc7a87e-d4a7-43bb-9633-8ead64a6e8b3",
+          "value": "https://ocs.azureedge.net/img/00182373000129_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6cab3aca-5f8c-4b7f-a23d-205ac269fa28",
+          "value": "http://52.60.121.34/upload/101426/00842572004778_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7f618b60-4717-4fa9-a752-ec0bc6f91ff8",
+          "value": "http://52.60.121.34/upload/101426/00842572004778_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "80cabe20-0715-4944-8965-3bd3e7fe5727",
+          "value": "http://52.60.121.34/upload/101030/00628242800129_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "54d32312-37e4-4754-9303-94639944afd3",
+          "value": "http://52.60.121.34/upload/101030/00628242800129_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "efc7329e-2261-4379-aac4-7acf45495613",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310013-00807399051046-00_480x.jpg?v=1592588482",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9950248f-cc47-41c5-a36f-05da2d1a2058",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310013-00807399051046-00_480x.jpg?v=1592588482",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b2923a58-9b99-4757-b5eb-9a6d4b59d75e",
+          "value": "http://52.60.121.34/upload/101500/00842865001286_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "82a8e17c-edc3-44ec-a93f-f729e25b273a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101057-00842865000074-a1c1-compressed_480x.jpg?v=1571262368",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cffbd016-eb8a-47b6-a446-6fa8025716bc",
+          "value": "https://cdn.ocs.ca/img/101731/00842865002832_00_compressed_101731.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d8768774-ff83-4dea-a9bf-39c8584f24b6",
+          "value": "https://cdn.ocs.ca/img/101731/00842865002832_00_compressed_101731.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e6bde0b7-4f73-4fba-a19a-80ac1128a8e4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330052-00628504747551-02_480x.jpg?v=1590435433",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "82ff6d46-dae1-40ed-ac2f-a85e1bc41881",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330052-00628504747551-02_480x.jpg?v=1590435433",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fa09c072-ff68-4e48-96e2-4dc24b78349d",
+          "value": "https://cdn.ocs.ca/img/330102/00851653000035_A1C1_compress_330102.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2bddfeb4-9c89-4816-9c51-e51c41b6c0e8",
+          "value": "https://cdn.ocs.ca/img/330102/00851653000035_A1C1_compress_330102.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5deddf61-f04c-40cc-9356-e4ada5531be1",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101472-00847023000965-00_480x.jpg?v=1591741730",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6f43e99a-5813-4a62-9a7a-c8f1873b48dd",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101472-00847023000965-00_480x.jpg?v=1591741730",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "66aff5a3-c06d-477c-97d3-9a22d4c7c4f6",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330012-00826061200827-00_480x.jpg?v=1579160439",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de2bac9c-93d7-4cd0-8812-16f9e70e56c7",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330012-00826061200827-00_480x.jpg?v=1579160439",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "38ca95c9-6c91-45b4-9078-9b0c3fbd5a53",
+          "value": "https://cdn.ocs.ca/img/320097/00688083004919_a1c1_compress_320097.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "62bc973e-cd31-412a-a3f2-195295fd91de",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320002-00688083002533-a1c1-compressed_480x.jpg?v=1587403218",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "294cab27-81ed-437f-8ca1-241f28da2815",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320002-00688083002533-a1c1-compressed_480x.jpg?v=1587403218",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "524499cc-ca27-407c-aa0c-677553117ae6",
+          "value": "http://52.60.121.34/upload/101499/00842865000098_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "832778c3-27df-4433-9cc5-f9ff6d3b51dd",
+          "value": "http://52.60.121.34/upload/101499/00842865000098_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d6c95cd8-2db0-40e6-8a3a-598b6ea27afe",
+          "value": "https://cdn.ocs.ca/img/300274/00842865001750_02_compress_300274.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cee8baf3-a58e-4e91-9c56-452903fac359",
+          "value": "https://cdn.ocs.ca/img/300274/00842865001750_02_compress_300274.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f83be7c7-9936-4a85-b2b5-72a32d20428e",
+          "value": "https://cdn.ocs.ca/img/100630/00688083001390_00_compress_100630.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3fec82fb-a4a2-47fe-87b5-c2751a6dec58",
+          "value": "https://cdn.ocs.ca/img/100630/00688083001390_00_compress_100630.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "66da9ca1-f3df-4ec3-9776-36217e8821ab",
+          "value": "http://52.60.121.34/upload/101285/00694144005238_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c8cc5f34-e53d-4b8b-adb3-79d618207fd8",
+          "value": "http://52.60.121.34/upload/101286/00694144005177_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7439a544-ead8-406a-a6dd-3631e9247e16",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101408-00694144005115-a1c1-compressed_480x.jpg?v=1594323120",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4e7556be-dd4d-4a47-89b5-eb493e3093c2",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101157-00628186000067-a1c1-compressed_480x.jpg?v=1595370450",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2c2d8423-c698-455f-b02b-e84fb7b05fa4",
+          "value": "https://ocs.azureedge.net/img/00628186000050_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d107659b-c678-4449-a53f-c77a179feb69",
+          "value": "https://ocs.azureedge.net/img/00694144004194_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7323b538-2ac9-49c6-9e3a-9160071336cc",
+          "value": "https://ocs.azureedge.net/img/00694144004194_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "066c5e57-ecb1-4c21-ad00-031744be5311",
+          "value": "http://52.60.121.34/upload/100995/00694144007751_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "14861029-add6-42ba-84d0-97d0e57ccbeb",
+          "value": "http://52.60.121.34/upload/100995/00694144007751_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de7106ab-9fa4-4256-995b-97e0ccbbeffb",
+          "value": "https://cdn.ocs.ca/img/300279/00694144010317_00_compressed_300279.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de34ef92-6718-4bf2-89a6-5552be63db63",
+          "value": "https://cdn.ocs.ca/img/300279/00694144010317_00_compressed_300279.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0f083b6a-6ae3-414b-a92e-4554832b0677",
+          "value": "http://52.60.121.34/upload/101447/00628188000539_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bc664109-29da-45b8-aba4-d6080cc6dced",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300146-00697238112041-00_480x.jpg?v=1589237891",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e0780b26-666c-4e01-b9f7-a83925be3a96",
+          "value": "https://cdn.ocs.ca/img/101781/00827912000931_a1c1_compress_101781.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5bbee73c-9c3a-4052-b0f1-c54abf69f0b1",
+          "value": "https://cdn.ocs.ca/img/101781/00827912000931_a1c1_compress_101781.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d52d5f0f-f915-4eb4-a134-931d607816a7",
+          "value": "https://cdn.ocs.ca/img/101617/00628176636108_00_compressed_101617.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bc5cfd2d-6284-41c8-9cb5-0d46e3dc5c5c",
+          "value": "https://cdn.ocs.ca/img/101617/00628176636108_00_compressed_101617.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a3c5f67d-cf5c-466a-8a76-39d5924cfb51",
+          "value": "http://52.60.121.34/upload/310022/00628242510950_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8f95413d-ddb6-48e7-b611-fe9a57639828",
+          "value": "http://52.60.121.34/upload/310022/00628242510950_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "13f289b2-58ee-4b4f-87df-a8ffbe46c250",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100701-00697238111273-00_480x.jpg?v=1571262366",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "26892f1a-ccd4-49bd-af22-521760d726c5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100701-00697238111273-00_480x.jpg?v=1571262366",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dafe1302-78f9-4db1-beff-dbf98c97fac3",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320001-00688083002748-a1c1-compressed_480x.jpg?v=1587403219",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1f992b4b-825d-4212-b4f9-9bbaacd1fb95",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320001-00688083002748-a1c1-compressed_480x.jpg?v=1587403219",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e73e936d-5651-4a2c-a7c1-5f293e933a05",
+          "value": "https://cdn.ocs.ca/img/100414/00688083001604_a1c1_en_compress_100414.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "35336e11-453a-4712-a081-a49cc49a0267",
+          "value": "https://cdn.ocs.ca/img/100414/00688083001604_a1c1_en_compress_100414.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a0f82119-c01e-4545-8522-be19a57a17bb",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101477-00688083003011-00_480x.jpg?v=1591125938",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0c305f25-2856-4384-a4df-cc3cf5ec693a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101477-00688083003011-00_480x.jpg?v=1591125938",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bb2b570a-f28f-4145-bb64-0b4c8081ec4a",
+          "value": "https://cdn.ocs.ca/img/101823/00837050000304_a1c1_compressed_101823.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "564af03a-2dd4-4b52-87cb-03c6704059bf",
+          "value": "https://cdn.ocs.ca/img/101823/00837050000304_a1c1_compressed_101823.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1553b557-78f0-48fa-a85a-64154de77d86",
+          "value": "https://cdn.ocs.ca/img/101929/00182373000204_a1c1_compressed_101929.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c4d94a0c-48b2-4706-b9f4-8e590273d446",
+          "value": "https://cdn.ocs.ca/img/101929/00182373000204_a1c1_compressed_101929.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5dc883fd-f9b4-48f4-a707-fab95e24cb78",
+          "value": "https://cdn.ocs.ca/img/101807/00694144006839_a1c0_compress_101807.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5e339511-5c64-4b3a-8c2e-41268cf1d1e5",
+          "value": "https://cdn.ocs.ca/img/101807/00694144006839_a1c0_compress_101807.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2c558447-fe5c-4900-9ba3-c32e1ee25f69",
+          "value": "http://52.60.121.34/upload/101626/00694144009038_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5e32aa15-18c2-4484-986a-3144236f1ebe",
+          "value": "http://52.60.121.34/upload/101626/00694144009038_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "20e45069-01b0-41d1-973a-35e872dfa23d",
+          "value": "https://cdn.ocs.ca/img/300307/00824164000597_01_compress_300307.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7e563858-07de-4107-9b1d-425773bf8663",
+          "value": "https://cdn.ocs.ca/img/300307/00824164000597_01_compress_300307.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dfb5630e-e8de-465c-8564-f2a2471d23f5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101238-00629108112141-a1c1-compressed_480x.jpg?v=1583422371",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d5f29354-dd35-47c8-aeb2-227d96459b7d",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101240-00629108114145-a1c1-compressed_480x.jpg?v=1583422372",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "05e98545-0f15-4846-b59c-e47643496105",
+          "value": "https://cdn.ocs.ca/img/310051/00840773000063_a1c1_compressed_310051.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2e62d10f-e943-495c-b776-f446dabaff04",
+          "value": "https://cdn.ocs.ca/img/310051/00840773000063_a1c1_compressed_310051.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bab41271-e8db-46ec-8729-9b3f0d68ea41",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1687794569/j1kiv0ozyyi6tuocpocp.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "f1bbce02-5607-47a4-b88b-85318d46f0f4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1687794559/abqlix8wuwmsgp37c9t1.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "ee1aa831-74c2-4b38-94ee-ce0a509dbd74",
+          "value": "https://ocs.azureedge.net/img/00827912000214_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8c2d46af-055e-406c-a88c-ffcbde2408d3",
+          "value": "https://ocs.azureedge.net/img/00827912000214_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cf83d72c-7b29-42dc-8466-ad4b4b8b9042",
+          "value": "https://ocs.azureedge.net/img/00628242260152_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de922bdb-e4a2-46d8-ac10-63878e0fbcc2",
+          "value": "https://ocs.azureedge.net/img/00628242260152_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2907b196-1f0d-4801-97d4-ed6681a62e1c",
+          "value": "http://52.60.121.34/upload/100759/00628242260626_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8a335123-b2f2-4c92-96a6-2252bca903cf",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101023-00827912000528-00_480x.jpg?v=1572365303",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7e090838-8dab-462d-b776-8ee079caf1b2",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101023-00827912000528-00_480x.jpg?v=1572365303",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b97034c8-1f26-411a-81b3-9f21e23140c8",
+          "value": "http://52.60.121.34/upload/300205/00694144005917_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "721cb688-eb8c-458b-9b62-5a11d3a7d713",
+          "value": "http://52.60.121.34/upload/300205/00694144005917_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a5b302fd-b014-439f-b3d9-ad46d86c2cc8",
+          "value": "http://52.60.121.34/upload/310011/00846067000290_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dc0ef80a-e610-4315-afd0-2fcdb412d278",
+          "value": "http://52.60.121.34/upload/310011/00846067000290_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d51cd719-fb7e-4138-9394-0989290bec48",
+          "value": "http://52.60.121.34/upload/310011/00846067000290_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6305f818-22a8-4a44-9520-4d240b97cfbd",
+          "value": "http://52.60.121.34/upload/310011/00846067000290_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ca92e6e8-1447-4e24-80c5-976b81bdc426",
+          "value": "http://52.60.121.34/upload/310011/00846067000290_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0457bf5d-c92b-4960-b3e9-01a4d1b1aadf",
+          "value": "http://52.60.121.34/upload/310011/00846067000290_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "71606e57-3f81-41bb-8366-27842a7d0237",
+          "value": "https://ocs.azureedge.net/img/00846067000177_a1c1_en_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d186b276-af40-400d-9e54-a1af76af90a4",
+          "value": "https://ocs.azureedge.net/img/00846067000177_a1c1_en_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "85dc5a18-b137-4cec-8918-90026ee34763",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310009-00846067000061-00_480x.jpg?v=1583955724",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "383ba23b-89fd-4624-ba08-66cb58de6822",
+          "value": "http://52.60.121.34/upload/101614/00628186000630_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "01bcaee8-b227-4a15-aa24-63e0b6255644",
+          "value": "http://52.60.121.34/upload/101614/00628186000630_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9fbe0902-6fb7-403f-9d44-734dc3e50b98",
+          "value": "https://cdn.ocs.ca/img/101522/00628242900867_a1c1_compress_101522.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7801e817-d5b2-4917-ac8c-099f8f1be070",
+          "value": "https://cdn.ocs.ca/img/101522/00628242900867_a1c1_compress_101522.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dd8e5a59-4d48-4bf0-8b8f-6ef25dc8b5fa",
+          "value": "https://cdn.ocs.ca/img/300197/00826494000032_00_compressed_300197.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "86fee189-76ce-449c-bdfa-8fc42ec48e8d",
+          "value": "https://cdn.ocs.ca/img/300197/00826494000032_00_compressed_300197.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b42ce8b7-c537-402f-a816-586e3e2329da",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101156-00628186000029-a1c1-compressed_480x.jpg?v=1595532591",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7234bd6f-b179-4428-a2c2-df8c94fc8cde",
+          "value": "https://ocs.azureedge.net/img/00628186000012_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c1ed0875-0f20-4147-847d-3651369b414f",
+          "value": "http://52.60.121.34/upload/101520/00628242900881_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "02085c07-84e5-4b09-bcfd-685c256d6bca",
+          "value": "http://52.60.121.34/upload/101520/00628242900881_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c66ed917-30f2-4967-80e7-b07b9a511a6c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100699-00697238111174-00_480x.jpg?v=1571262365",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3a48aa78-353e-49a6-9cc2-df67421ad914",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100699-00697238111174-00_480x.jpg?v=1571262365",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0c5ac27f-437f-473e-9073-0f8b136f81de",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330056-00800447000638-00_480x.jpg?v=1594330931",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bc06218b-d879-42d8-a7a9-dc9f6e9e3867",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330056-00800447000638-00_480x.jpg?v=1594330931",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "faa8f9e4-81f8-4506-8c39-113e5197e2d5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320045-00826966011825-a1c1-compressed_480x.jpg?v=1595364141",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cef2096a-dc1f-4fcc-8e13-2d6812080d46",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320014-00826966011801-a1c1-compressed_480x.jpg?v=1587403231",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "12708f48-c481-46ed-b42d-7d37764735c6",
+          "value": "https://cdn.ocs.ca/img/300199/00809582010014_00_compressed_300199.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f759feea-b8a9-47fc-894d-4ced9e375e19",
+          "value": "https://cdn.ocs.ca/img/300199/00809582010014_00_compressed_300199.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "31b49381-5af0-4a9c-9903-a797f666d212",
+          "value": "https://cdn.ocs.ca/img/300323/00628242801294_00_compress_300323.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b7e52a1e-5323-4f53-a15b-98877a0ac14c",
+          "value": "https://cdn.ocs.ca/img/300323/00628242801294_00_compress_300323.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ecb38d4d-26ac-49f4-8f84-655f0aa476dc",
+          "value": "https://cdn.ocs.ca/img/101912/00879383000019_00_compress_101912.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c899332f-d6e7-4eea-b816-a0ab98211d0c",
+          "value": "https://cdn.ocs.ca/img/101912/00879383000019_00_compress_101912.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d326a855-19d5-46f6-8f32-393daa6b9b0c",
+          "value": "https://cdn.ocs.ca/img/101641/00751257000076_00_compressed_101641.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "85e548ed-610f-4474-b76c-c7c37e3ed8c3",
+          "value": "https://cdn.ocs.ca/img/101641/00751257000076_00_compressed_101641.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d6178c0b-451b-437e-8437-9e991e0c79f0",
+          "value": "https://cdn.ocs.ca/img/101579/00628504701256_00_compressed_101579.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "61d2ca4b-9c98-46e3-b937-eb3fab3eb075",
+          "value": "https://cdn.ocs.ca/img/101579/00628504701256_00_compressed_101579.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "df32bb73-f782-4766-b6fa-a39627696c84",
+          "value": "https://ocs.azureedge.net/img/320059/00688083002434_a1c1_compressed_320059.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ed3deea6-7607-4546-afba-f6ab51d026c8",
+          "value": "https://ocs.azureedge.net/img/320059/00688083002434_a1c1_compressed_320059.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a8c910b0-27b1-4ec8-89c5-aa69ed8efca2",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "c42a1ca9-2cab-4b51-b9c8-7aea61ccdc65",
+          "value": "http://52.60.121.34/upload/320036/00697238204005_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4ead20a9-27d4-4842-99ec-c11964ffa9c5",
+          "value": "http://52.60.121.34/upload/320036/00697238204005_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "caaf9295-614d-4485-a698-85a2f515ef6e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101196-00628242900409-00_480x.jpg?v=1580228649",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "171dc813-4057-447d-8138-d1e153933299",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101196-00628242900409-00_480x.jpg?v=1580228649",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "026644c5-b34f-4652-bde7-5e5495b17db3",
+          "value": "http://52.60.121.34/upload/101519/00628242900928_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5b0b6351-8f4a-4643-91d6-ebcbf2844dd8",
+          "value": "http://52.60.121.34/upload/101519/00628242900928_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8177688d-6b62-466e-a192-d8dbb2c075ed",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300043-00826061200360-00_480x.jpg?v=1584045741",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ed784ac4-a589-43aa-89b0-a0c7ac4fbcba",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300043-00826061200360-00_480x.jpg?v=1584045741",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d9f006ea-4532-4959-9d25-9c42581ebc6c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101029-00628242800112-a1c1_480x.jpg?v=1585873630",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ab18a67a-c26c-4cd6-8e1b-aba129355aae",
+          "value": "http://52.60.121.34/upload/101031/00628242800136_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "80717278-9db7-477f-a8ef-a5409c76018a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320045-00826966011825-a1c1-compressed_480x.jpg?v=1595364141",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ded2cb29-9d16-495a-84e5-3758c7e886e3",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320045-00826966011825-a1c1-compressed_480x.jpg?v=1595364141",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cb10d710-9084-4395-9690-5b2e01937097",
+          "value": "https://cdn.ocs.ca/img/330043/00675136001407_a1c1_compress_330043.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5b2612df-9063-40d2-a8d3-6dd9f21f3c9f",
+          "value": "https://cdn.ocs.ca/img/330043/00675136001407_a1c1_compress_330043.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f8315e51-8cfd-4fae-88b0-c3c77a67c7c0",
+          "value": "https://ocs.azureedge.net/img/00671148406025_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2b3fd47f-9db3-47cc-b6ae-e6c1602f3dde",
+          "value": "https://ocs.azureedge.net/img/00671148406025_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "db9971d4-f539-49aa-a2ad-e4fdbabb6ac4",
+          "value": "http://52.60.121.34/upload/101552/00628504385180_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "90886031-8733-4431-9150-2bf34da240a0",
+          "value": "http://52.60.121.34/upload/101552/00628504385180_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ce4eb511-4910-4bd2-ad23-9c446c579553",
+          "value": "http://52.60.121.34/upload/101180/00628242242424_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a005fea8-62f7-4051-ad1c-2c808fd1a843",
+          "value": "http://52.60.121.34/upload/101180/00628242242424_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "94555639-7761-4e60-baeb-d4c478dcd817",
+          "value": "http://52.60.121.34/upload/101625/00627965002292_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "03afb5bb-138e-4d1c-bc10-2cfcb2e7f2ec",
+          "value": "http://52.60.121.34/upload/101625/00627965002292_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cf8767c2-c8ff-472a-839e-3e7bee328737",
+          "value": "https://cdn.ocs.ca/img/102024/00751257000342_00_compress_102024.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "96a76629-9827-4d38-83e2-30787b5f371c",
+          "value": "https://cdn.ocs.ca/img/102024/00751257000342_00_compress_102024.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "21024533-517e-4c91-804f-9077d25a21a7",
+          "value": "https://ocs.azureedge.net/img/00697238204012_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a51d4f1b-fad6-4f36-a60d-9eff45a33432",
+          "value": "https://ocs.azureedge.net/img/00697238204012_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6c85caac-d401-4d93-9364-da223e57a731",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100697-00697238111150-00_480x.jpg?v=1571262365",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5471ccc9-3d20-4279-9a21-11d8a52bfaa4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100697-00697238111150-00_480x.jpg?v=1571262365",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c8a2f183-9cb3-4e8c-b627-7a10cd9770e6",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320022-00627965000663-00_480x.jpg?v=1589985291",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e00bd48c-f380-4524-b12d-4a331231f660",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320003-00627965000557-00_480x.jpg?v=1582130688",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ceb8db44-e4b2-4cb0-8c89-01078bfe7aa7",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101126-00627965001349-00_480x.jpg?v=1574465659",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5eed007c-a730-4853-aebe-f7eb69095a3f",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101126-00627965001349-00_480x.jpg?v=1574465659",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6c277d1d-790f-41e0-bb1d-2e6cabfbcaf4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101419-00627965000519-00_480x.jpg?v=1590621925",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b07c5794-895e-43d9-8c75-f389d6c1cd61",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101419-00627965000519-00_480x.jpg?v=1590621925",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5efb49d5-ca16-4650-a963-eb30fcf940f2",
+          "value": "https://cdn.ocs.ca/img/101757/00627965002117_00_compressed_101757.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6bdb00a7-148c-4663-afa0-b86dc36b8f48",
+          "value": "https://cdn.ocs.ca/img/101757/00627965002117_00_compressed_101757.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "20bb63d8-3628-4ff5-8004-50b97d3cd75a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320004-00627965000717-00_480x.jpg?v=1579160417",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a949ffe3-b751-4e0b-92f5-9972c7f1e9a9",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320004-00627965000717-00_480x.jpg?v=1579160417",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b9fb9f76-18dc-40a6-99eb-e8ddb21c2e79",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100478-00627697100358-a1c1-compressed_480x.jpg?v=1573591660",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1c249718-c5e6-4ad8-9081-21b3243315af",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100478-00627697100358-a1c1-compressed_480x.jpg?v=1573591660",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f4a94136-039d-4603-88bc-94d16204a3ee",
+          "value": "https://cdn.ocs.ca/img/101889/00827885008224_00_compress_101889.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b902aaaa-a37c-4b3f-8c0a-b09fed4ccd9d",
+          "value": "https://cdn.ocs.ca/img/101889/00827885008224_00_compress_101889.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6bb41d8f-b874-44da-aa37-eb3fe93ca374",
+          "value": "https://cdn.ocs.ca/img/300300/00751257000083_00_compress_300300.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b109e416-d6f5-4622-9a92-000eec178480",
+          "value": "https://cdn.ocs.ca/img/300300/00751257000083_00_compress_300300.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "614c9776-0530-4da8-99fb-ce22a71c7408",
+          "value": "http://52.60.121.34/upload/101467/00182373000167_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "26675d51-2efe-42da-ad04-8dca0cb033d5",
+          "value": "http://52.60.121.34/upload/101467/00182373000167_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "394ac67b-49f3-4ae2-9db4-f45e3b46240e",
+          "value": "http://52.60.121.34/upload/310021/00628582001187_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a71bb712-6b69-4ba4-876b-cb2b86ac6aa2",
+          "value": "http://52.60.121.34/upload/310021/00628582001187_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8a439a48-37c0-4b3f-bd4a-bc3029e9d922",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300129-00628242245654-00_480x.png?v=1585237414",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "604eca03-47b2-471b-b87c-67534b248d82",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310012-00807399052043-00_480x.jpg?v=1592588480",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "da595049-2e25-49e5-a082-e5de3709d35d",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310012-00807399052043-00_480x.jpg?v=1592588480",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "61bfeeef-cb0e-4e6a-a2b3-cd41412beadf",
+          "value": "http://52.60.121.34/upload/100763/00628242260480_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "471e5bdc-85e5-4c07-a1b9-32d1b67a35f8",
+          "value": "http://52.60.121.34/upload/100763/00628242260480_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "98331549-5abc-4a78-93ae-0587aa121392",
+          "value": "https://ocs.azureedge.net/img/00628242260473_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "38c91d58-5a83-4d0c-86f2-f053908cf60e",
+          "value": "http://52.60.121.34/upload/100763/00628242260480_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "80c8509c-7e41-4dd9-964e-987d14931492",
+          "value": "http://52.60.121.34/upload/100763/00628242260480_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5234aadc-2afb-49fb-ad51-4185665d99af",
+          "value": "http://52.60.121.34/upload/101264/00827885000709_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7d2e53f3-11ed-4703-a907-946527ed2cc1",
+          "value": "http://52.60.121.34/upload/101264/00827885000709_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0d275d62-ced3-4ddc-9d80-1387a265355d",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101282-00697238112287-00_480x.jpg?v=1587657957",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "81212a2c-12f6-470f-bb5c-8b12a8bfe866",
+          "value": "http://52.60.121.34/upload/101162/00697238112249_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "47d2ea9e-d85f-433a-8c4d-29138623b8af",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101279-00697238112263-00_480x.jpg?v=1588782195",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c1d49bfe-ce57-4e72-97f6-26a8249478fd",
+          "value": "https://cdn.ocs.ca/img/310056/00697238112331_00_compress_310056.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "46e2567c-9c20-4fc3-a564-c84abfd6a28c",
+          "value": "https://cdn.ocs.ca/img/310056/00697238112331_00_compress_310056.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e6086576-edc4-4f8e-896a-59c1491f7c01",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101360-00628188000645-00_480x.jpg?v=1585094577",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9ecfa6e5-38b1-4f25-8544-cf541695a845",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101361-00628188000652-00_480x.jpg?v=1588271079",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de4e787e-5c57-4ec5-8e1d-f7ea855d14a8",
+          "value": "https://cdn.ocs.ca/img/101674/00628504701331_a1c1_compressed_101674.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "49cb9f05-347c-4fd4-93ba-8a512b1909d4",
+          "value": "https://cdn.ocs.ca/img/101674/00628504701331_a1c1_compressed_101674.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "49ffe31f-328c-46a3-bc30-fe9969010a8c",
+          "value": "https://ocs.azureedge.net/img/00182373000082_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "13c70aaa-0fb8-474d-b5c4-e7ab52497954",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "24c1d7be-844f-466a-bc29-c4ea3c2594e4",
+          "value": "http://52.60.121.34/upload/101541/00628242900782_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "01980d76-f3e6-4a63-9ea1-f03c1ee58280",
+          "value": "http://52.60.121.34/upload/101541/00628242900782_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b7f43520-524e-43e8-acbf-3d3e515e4c20",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "38e21297-4aba-44b4-9ff2-d76951f85330",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300150-00694144004897-00_480x.jpg?v=1588177970",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b7041525-0039-455e-99d5-4f7139e4b44f",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300150-00694144004897-00_480x.jpg?v=1588177970",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b4819e07-69e3-4bff-8cab-e270dbb2a661",
+          "value": "https://cdn.ocs.ca/img/330082/00826966011733_03_compress_330082.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7b7b6f0e-779c-4964-8fba-e54cd05cd82f",
+          "value": "https://cdn.ocs.ca/img/330082/00826966011733_03_compress_330082.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "944aa8e8-86fe-4573-9bfb-f7442db0b9d5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300180-00628639000309-00_480x.jpg?v=1591256037",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b4c93c07-fe9b-46ca-9d89-6e7702591067",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300180-00628639000309-00_480x.jpg?v=1591256037",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "798d5bc0-0904-42f1-b353-07fb06ef1c73",
+          "value": "https://cdn.ocs.ca/img/300314/00827885006053_a7c1_compressed_300314.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "abafabae-2c69-4ba7-931a-06f0517e23d1",
+          "value": "https://cdn.ocs.ca/img/300314/00827885006053_a7c1_compressed_300314.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "52c4d12c-ad7e-4846-8f63-dd1a812f491f",
+          "value": "http://52.60.121.34/upload/101560/00628242510905_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "77af55ea-024d-4b17-a8c5-874e5750dae1",
+          "value": "http://52.60.121.34/upload/101560/00628242510905_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "04acdb67-0510-4eca-9fb0-149bfad276d7",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101266-00827885000853-00_480x.jpg?v=1582920274",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "41ee0b18-efd3-4685-be6d-d9e24d62e767",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101266-00827885000853-00_480x.jpg?v=1582920274",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c31e087c-c07b-4984-8d8f-172063e324e4",
+          "value": "https://cdn.ocs.ca/img/300291/00751257000045_00_compress_300291.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7dd8d7f7-9629-410f-8640-a0a4fd65fa7b",
+          "value": "https://cdn.ocs.ca/img/300291/00751257000045_00_compress_300291.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5ad4e653-a058-4f4d-968d-543ab251929e",
+          "value": "https://cdn.ocs.ca/img/101900/00628242320474_00_compress_101900.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "12c9572b-13de-4cbb-9c8b-ae082adb0b3e",
+          "value": "https://cdn.ocs.ca/img/101900/00628242320474_00_compress_101900.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "507f6d60-568f-4c57-b8a6-ec09c5944602",
+          "value": "http://52.60.121.34/upload/101521/00628242900904_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8aa40b7d-58ba-4bbe-b39f-f88de716f48d",
+          "value": "http://52.60.121.34/upload/101521/00628242900904_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bc3e1ada-95eb-4bfd-ad40-643027062a77",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "bb1134d4-5595-4d72-bea0-3b0a6d913c91",
+          "value": "http://52.60.121.34/upload/101595/00628188000843_02.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e563c36f-2489-4188-b45d-bb19813501da",
+          "value": "http://52.60.121.34/upload/101595/00628188000843_02.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "19f08295-0a98-42e4-ab90-e66225b8a699",
+          "value": "https://ocs.azureedge.net/img/00628188000409_00_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c7957f60-6e26-48fd-9aaf-ad7fc7caedca",
+          "value": "http://52.60.121.34/upload/101014/00628188000393_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1fd4089c-90c3-4d95-82b8-fba9b91d416b",
+          "value": "https://ocs.azureedge.net/img/00628188000409_00_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d4276711-1384-4434-a4d3-29cd23facd49",
+          "value": "https://ocs.azureedge.net/img/00628188000478_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c580ef73-3bb5-4876-8b30-58e27a94cfbb",
+          "value": "https://ocs.azureedge.net/img/00628188000379_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "64e2b98c-13cc-4cad-8b68-dae3401f8ed1",
+          "value": "http://52.60.121.34/upload/101066/00628188000362_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f0b8c1c3-09c5-47d0-86cf-dc36ef6b9151",
+          "value": "https://ocs.azureedge.net/img/00628188000379_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bba7dc48-9e5d-4c36-b9f0-0e3b74899fda",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101535-00820423000056-00_480x.jpg?v=1595537587",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d6d3b01a-62f2-46e7-87e9-f7dce8f3757a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101535-00820423000056-00_480x.jpg?v=1595537587",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2aa02b56-6161-433a-9c1b-54611203ef7c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300176-00694144005832-00_480x.jpg?v=1592264486",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4a36bff8-cb2d-40cd-a396-4eadbb34b38c",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300176-00694144005832-00_480x.jpg?v=1592264486",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4c9a829d-45d8-43e7-885c-35d0a657bc20",
+          "value": "https://cdn.ocs.ca/img/101972/00805429000217_00_compress_101972.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f7806336-ac83-4c6b-aa7a-1ef9133dc4cb",
+          "value": "https://cdn.ocs.ca/img/101972/00805429000217_00_compress_101972.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "01e2f283-eb7b-4433-aeaf-478a38feb8a8",
+          "value": "https://ocs.azureedge.net/img/00694144003074_m1c0_compress_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8c17e370-8fa4-436f-a522-c170facee0db",
+          "value": "https://ocs.azureedge.net/img/00694144003074_m1c0_compress_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c1b29242-4cbf-4846-88c3-c0990b9d9543",
+          "value": "http://52.60.121.34/upload/100992/00694144003098_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "eec71af6-4753-4e39-a2bf-f71de58bf175",
+          "value": "https://cdn.ocs.ca/img/320062/00671148407022_02_compress_320062.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "23d10195-5336-42fd-9f41-6d2097d290ee",
+          "value": "https://cdn.ocs.ca/img/320062/00671148407022_02_compress_320062.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "54ba07c5-d777-4a4f-9628-1f8a1a0b6e98",
+          "value": "https://cdn.ocs.ca/img/300278/00694144010294_00_compressed_300278.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "457a2f0f-e578-4df5-a34e-a6b6620b95a5",
+          "value": "https://cdn.ocs.ca/img/300278/00694144010294_00_compressed_300278.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "b8abaf60-a3c1-41a0-8d38-27e50dd4ddab",
+          "value": "https://cdn.ocs.ca/img/101890/00628341730051_a1c1_compress_101890.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8e178da4-63be-4e9d-9dff-4b50a4c9ea08",
+          "value": "https://cdn.ocs.ca/img/101890/00628341730051_a1c1_compress_101890.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a730def5-b5e9-4977-be6c-a6c977628a1b",
+          "value": "https://ocs.azureedge.net/img/00628242242134_m1c0_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fa6bfc69-4721-4c68-8218-512acda25356",
+          "value": "https://ocs.azureedge.net/img/00628242242127_m1c0_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a47db480-fa91-41a9-baf0-c8ca914e73c8",
+          "value": "https://ocs.azureedge.net/img/00628242242134_m1c0_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bb8b6daf-d98f-45c1-8399-2130d7d6ca43",
+          "value": "https://ocs.azureedge.net/img/00628242242110_m1c0_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c6370f1c-1fc9-4e2a-9b73-5c8a04e7efb0",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101071-e2-80-8d00628242243094-00_480x.jpg?v=1595280422",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2b637f04-2741-4c60-b0f6-f3b90322e35b",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300081-00628242245258-00_480x.jpg?v=1579160400",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "48338406-da18-4be1-bec1-d020edd776a4",
+          "value": "http://52.60.121.34/upload/300127/00628242245852_m1c0_compressed_300127.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "eec5287f-1f38-4b6b-ba2b-4a2c60816d84",
+          "value": "https://ocs.azureedge.net/img/00841432000158_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "47ccf0eb-a2b2-4538-a8ad-098bc280efc3",
+          "value": "http://52.60.121.34/upload/100641/00841432000103_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7e3904eb-4869-4d7b-9415-f43350b76004",
+          "value": "http://52.60.121.34/upload/100641/00841432000134_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "603f91d8-6192-458c-bbc9-d6603c190229",
+          "value": "https://ocs.azureedge.net/img/00841432000097_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "54c64087-55ae-4008-ad3c-abaec4a224dc",
+          "value": "https://ocs.azureedge.net/img/00841432000097_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ffbacf2f-2bc4-4a6e-a167-1d5c41766da8",
+          "value": "https://ocs.azureedge.net/img/00841432000158_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e70c9872-91bf-434c-9aa8-73a577b9e54a",
+          "value": "https://ocs.azureedge.net/img/00841432000158_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "db4d4975-14bf-4de1-9692-ea6c80b1e70f",
+          "value": "http://52.60.121.34/upload/100638/00841432000158_00_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1cd62917-be48-4d18-9e8a-5e846573ad3e",
+          "value": "http://52.60.121.34/upload/101290/00694144004477_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "95500b8c-bce1-404a-a688-3129402fed4b",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100993-00694144003111-a1c0-compressed_480x.jpg?v=1571262278",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e248b1da-628b-4074-92a0-660b4be99ed7",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300021-00694144003470-00_480x.jpg?v=1579160373",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "897f7b66-5ee4-4619-9181-c158a0077b77",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300021-00694144003470-00_480x.jpg?v=1579160373",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "009b382d-b9aa-4545-a364-a0767342f9ba",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300022-00694144003494-00_480x.jpg?v=1579160374",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "a3816804-d03a-4019-b46d-d4c82e16ce48",
+          "value": "https://cdn.ocs.ca/img/330079/00627965002155_a1c1_compressed_330079.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "49de8e08-cb70-4851-bc11-5648bccd486b",
+          "value": "https://cdn.ocs.ca/img/330079/00627965002155_a1c1_compressed_330079.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e3fc31c5-39e2-4d4d-85bb-6c0f3a8c6693",
+          "value": "http://52.60.121.34/upload/100640/00841432000110_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2c51e7e0-edba-4f91-be9c-488e0db1110d",
+          "value": "http://52.60.121.34/upload/100640/00841432000110_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "459a44db-c851-4996-9135-3e0e63d7b297",
+          "value": "http://52.60.121.34/upload/100640/00841432000110_00_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "92bc3484-7680-43b0-9e1f-73ca7a31c5fe",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-340008-00628504747605-00-compressed_480x.jpg?v=1594921408",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "219bd049-dac3-4049-b4b0-9f0e4b9604d6",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-340008-00628504747605-00-compressed_480x.jpg?v=1594921408",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "80a6613c-91bf-47e9-bf1d-8638fa32ef33",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101535-00820423000056-00_480x.jpg?v=1595537587",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6a408013-c9e7-4bc6-9380-98e0afe180a8",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101535-00820423000056-00_480x.jpg?v=1595537587",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5d3acb6b-72f0-43ea-9790-c1fcbb7beeab",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101534-00820423000032-00_480x.jpg?v=1595537587",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fa926610-9c86-481c-b60e-5c7f56ce2f6c",
+          "value": "http://52.60.121.34/upload/101430/00842572004709_00.jpeg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3dd40fd5-7df4-42a8-bf56-fd106d321905",
+          "value": "http://52.60.121.34/upload/101430/00842572004709_00.jpeg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "dccb923f-a1ad-4bc5-8d43-eab92b68012d",
+          "value": "https://cdn.ocs.ca/img/101733/00827763000487_00_compress_101733.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "26b965c8-f614-4432-9e75-8882e080747c",
+          "value": "https://cdn.ocs.ca/img/101733/00827763000487_00_compress_101733.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0d41cb2d-55bb-407b-87ec-ead2da9148b3",
+          "value": "https://cdn.ocs.ca/img/101733/00827763000173_a1c1_compress_101733.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ec053b24-8f7a-48ca-94fe-a457d86b51c9",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100991-00694144003036-a1c1-compressed_480x.jpg?v=1571262278",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0ae0d3a0-b47b-4955-ab7a-7e5bc5723d12",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100991-00694144003036-a1c1-compressed_480x.jpg?v=1571262278",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e624c84f-04af-4f23-be61-a209aeed78d4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330004-00826061200698-00_480x.jpg?v=1579160428",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5ad31f54-5601-4c85-aca9-b72811c27214",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330003-00826061200681-00_480x.jpg?v=1579793470",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c8138b93-b3e1-47a3-b199-b69ead371f00",
+          "value": "https://cdn.ocs.ca/img/101808/00694144006679_00_compress_101808.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c36ea695-cd8b-4b5c-9956-3736a9d36ee1",
+          "value": "https://cdn.ocs.ca/img/101808/00694144006679_00_compress_101808.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8dfbb1d3-a7c2-441c-b60c-85d8974ffe5b",
+          "value": "http://52.60.121.34/upload/101627/00694144008956_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7867204a-3857-48a0-a489-06b7696f3201",
+          "value": "http://52.60.121.34/upload/101627/00694144008956_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d6ba3808-1bcf-4853-81f0-15621424fb89",
+          "value": "https://cdn.ocs.ca/img/101565/00688083003950_00_compressed_101565.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6d9c1836-744c-46d0-8dcb-05553cfec872",
+          "value": "https://cdn.ocs.ca/img/101565/00688083003950_00_compressed_101565.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "833126a4-df8b-4ae7-aa14-640dea374164",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101238-00629108112141-a1c1-compressed_480x.jpg?v=1583422371",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "17480c84-4e79-467e-a5ae-549123dc4a62",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101238-00629108112141-a1c1-compressed_480x.jpg?v=1583422371",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e45cf4e8-b824-4de9-a653-07fc20f312cd",
+          "value": "https://cdn.ocs.ca/img/101453/00628242320443_00_compressed_101453.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "abf4c163-4404-42ca-bea5-f6b13865ea48",
+          "value": "https://cdn.ocs.ca/img/101453/00628242320443_00_compressed_101453.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8fc3d5b9-235c-4c18-8123-ce7c52b8e743",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101476-00846067000436-00_480x.jpg?v=1594485108",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3db1d020-e6db-4107-a234-91cc57d7a49e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101476-00846067000436-00_480x.jpg?v=1594485108",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d2fe6132-2244-4b5d-ab6b-7e1384bd5e01",
+          "value": "http://52.60.121.34/upload/101476/00846067000436_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "71dd140d-00e9-44a8-a93e-271cbbc58d9b",
+          "value": "http://52.60.121.34/upload/101693/00628242701617_a1c1_compressed_101693.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "68cd6aab-0bbf-4798-b98e-b5ef988d7096",
+          "value": "http://52.60.121.34/upload/101693/00628242701617_a1c1_compressed_101693.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d9a92e9b-8cdc-4031-8f96-dd1c9413be97",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1687793826/obrplwbgmmcogacrnxy2.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "fae0f77d-1fab-462b-8399-4b55355a1b04",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1687793814/c9vcv33qwafphcqr7v37.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "d72468cd-ad10-41a3-8000-b5c749958f55",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1634746848/bxog090ez5ndkq6aqyw1.heic",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "482abe6e-e8d9-4533-b26e-0cd484899797",
+          "value": "https://cdn.ocs.ca/img/300277/00842865001774_a7c1_compress_300277.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0c7d3b00-4688-49e8-952e-3a04c0993c84",
+          "value": "https://cdn.ocs.ca/img/300277/00842865001774_a7c1_compress_300277.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "333857a0-ac8c-49a7-a3fe-4d342bdbf7d2",
+          "value": "http://52.60.121.34/upload/101545/00688318000051_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de6a8dbe-7cb8-4ed5-a6dd-4f2aab7f0b6b",
+          "value": "https://cdn.ocs.ca/img/101830/00689285001539_a1c1_compressed_101830.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "df175fd3-d240-44b8-8d80-4843e28e4df8",
+          "value": "https://cdn.ocs.ca/img/101830/00689285001539_a1c1_compressed_101830.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "26226a90-e09c-4227-9cb1-07e60083eb65",
+          "value": "https://ocs.azureedge.net/img/00628504385081_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "eb752755-c750-400c-9be3-91ef5820a6e3",
+          "value": "https://ocs.azureedge.net/img/00628504385081_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "392f0dfc-6b0c-4bca-a948-f10f4379ac86",
+          "value": "http://52.60.121.34/upload/101551/00628504385173_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d81c7a7b-9eaf-4791-bc12-ee6674c923f7",
+          "value": "http://52.60.121.34/upload/101551/00628504385173_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e80f4a15-6527-44ac-8f18-2b5bea230a56",
+          "value": "https://cdn.ocs.ca/img/101968/00671148201002_00_compress_101968.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "462328bb-fa74-4b9e-bed9-454b7d9faaa2",
+          "value": "https://cdn.ocs.ca/img/101968/00671148201002_00_compress_101968.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f57264a5-488c-4f02-88f1-6fe37676f031",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100035-00882464000112-01_480x.jpg?v=1588018134",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c05fde72-e292-4dd3-8329-1bd692244012",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100035-00882464000112-01_480x.jpg?v=1588018134",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5eed290b-d30e-4a17-9e8c-a1ded1e93fb7",
+          "value": "https://cdn.ocs.ca/img/300283/00882464001416_00_compressed_300283.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "cd245c8d-f3a5-4936-aa5e-8f72e386bc99",
+          "value": "https://cdn.ocs.ca/img/300283/00882464001416_00_compressed_300283.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c8731fb7-857e-4ea5-b696-d1dc9f7b053b",
+          "value": "https://cdn.ocs.ca/img/101454/00628242320450_a1c1_compress_101454.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4d07175b-fd73-41b6-a1ca-3c72034d3545",
+          "value": "https://cdn.ocs.ca/img/101454/00628242320450_a1c1_compress_101454.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e40ed1b8-930a-4f5e-bcf3-c38a4a92a2ee",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330049-00628504747407-02_480x.jpg?v=1590435431",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "83d99214-6201-4c50-bd7e-1e95c1ad5937",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330049-00628504747407-02_480x.jpg?v=1590435431",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "37433c08-d177-4b75-a7ce-31bf50a965e6",
+          "value": "http://52.60.121.34/upload/101533/00689285001362_A1C1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "65b42505-786e-4537-9d08-2fdebd9d208b",
+          "value": "http://52.60.121.34/upload/101533/00689285001362_A1C1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3446e353-d215-40f3-a1df-922de84b693a",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "8df0b18e-7fd8-48e6-9b5e-2b0fa7470efc",
+          "value": "http://52.60.121.34/upload/320033/00697238205033_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3fcc1b25-27f3-465c-bec1-e2ab85fd586f",
+          "value": "http://52.60.121.34/upload/320031/00697238205026_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "172671b5-8823-4592-b481-3c462c81b6e7",
+          "value": "http://52.60.121.34/upload/320033/00697238205033_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d8d31b99-2968-4184-bbc4-b4dd1e84ed30",
+          "value": "http://52.60.121.34/upload/320033/00697238205033_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d31b0d07-baff-484e-9519-3a3d0403e4eb",
+          "value": "http://52.60.121.34/upload/101505/00628242950145_00.jpg.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "173a53dc-93a7-4b1d-a8dc-a509cff2783e",
+          "value": "http://52.60.121.34/upload/101505/00628242950145_00.jpg.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5b4ef019-42db-4a85-b1f4-c5505a3e1527",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101187-00842865000654-a1c1-compressed_480x.jpg?v=1576006527",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "46a6a620-572c-4144-98db-9b72c93951d1",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101094-00628242260688-00_480x.jpg?v=1588782041",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d0f2c43a-329d-49c4-b64f-c9d63ee44bca",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101094-00628242260688-00_480x.jpg?v=1588782041",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f8867b92-d304-4556-a4f2-ce40417ebafb",
+          "value": "http://52.60.121.34/upload/101094/00628242260688_02.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ecc55ca8-e34b-49a6-aec4-fc07ceab053d",
+          "value": "http://52.60.121.34/upload/100763/00628242260480_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "148819fc-3e7e-42c7-910f-ea39f8cddce1",
+          "value": "http://52.60.121.34/upload/100763/00628242260480_a1c1_compressed_.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5dcb3600-9edc-4073-90a9-521965d120be",
+          "value": "https://cdn.ocs.ca/img/330106/00628242950336_00_compress_330106.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "47669619-6928-4a8b-9a20-8bb68ce869f9",
+          "value": "https://cdn.ocs.ca/img/330106/00628242950336_00_compress_330106.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0fc146a8-50f4-4088-854e-681873458ccb",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101203-00800447000997-a1c1_480x.jpg?v=1582054518",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1b7339b0-a1ea-4e51-9f76-f5440bf35eec",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101203-00800447000997-a1c1_480x.jpg?v=1582054518",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "294a6dbc-cc5c-449b-ac6a-c49c265ee9a4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101192-00800447001000-a1c1-compressed_480x.jpg?v=1576168804",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4833c90d-9dd8-4fd9-96f3-cc913d4ee1d6",
+          "value": "https://ocs.azureedge.net/img/00628242800457_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3301b984-243b-4ab3-9d3e-6b8b1ca5b04f",
+          "value": "https://ocs.azureedge.net/img/00628242800457_m1c0_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bb6855d6-e7ee-4794-a1c3-44fb0a6c0c10",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100078-00694144000547-a1c0-compressed_480x.jpg?v=1571262102",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f605c85f-2092-4596-a249-4a035a03e892",
+          "value": "https://cdn.ocs.ca/img/101639/00751257000069_A1C1_compress_101639.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5867be6e-9a1e-4122-95a2-bf6c25fe26c9",
+          "value": "https://cdn.ocs.ca/img/101639/00751257000069_A1C1_compress_101639.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "758c3bb1-037b-43c9-a65b-e95c025232c5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101336-00694144004415-00_480x.jpg?v=1582918490",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c795d143-0598-4fed-a6b1-4818051a6431",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101336-00694144004415-00_480x.jpg?v=1582918490",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e912ea74-2a64-4fbf-abe6-e4cca23afbe0",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101288-00694144004392-a1c0-compressed_480x.jpg?v=1581719512",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "704eef88-c88a-4ef8-932b-9b8b7b6def9b",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101206-00882464000648-00_480x.jpg?v=1583778794",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e8500ae4-9442-4d45-a884-2ae1a962d801",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101206-00882464000648-00_480x.jpg?v=1583778794",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d5146407-f000-4a01-a2f2-56ac1610b113",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101211-00882464000853-00_480x.jpg?v=1594322956",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7a287f35-eefc-4525-813d-380dedf864b5",
+          "value": "http://52.60.121.34/upload/100667/00882464000518_m1c0_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f323a2a1-2518-4f08-87d8-a12437148789",
+          "value": "http://52.60.121.34/upload/100667/00882464000518_m1c0_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "19f63a93-551e-45c3-9d70-fade654bea11",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101358-00882464000495-a1c1-compressed_480x.jpg?v=1585931485",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1d1aca62-fdb9-4c97-a6f1-65839845f384",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100668-00882464000525-a1c1-compressed_480x.jpg?v=1584026788",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c4a6bc0f-99a8-4bd8-bdf5-59002280aab9",
+          "value": "http://52.60.121.34/upload/101635/00847023001108_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "be14dd3b-f815-468a-8334-c5e17b22a247",
+          "value": "http://52.60.121.34/upload/101635/00847023001108_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f5d4d61c-6ce9-437f-bfb3-0a7b20c44021",
+          "value": "http://52.60.121.34/upload/101635/00847023001108_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2d71b462-c34a-4bbb-98a7-37c547ae5d6a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101103-00847023000651-a1c1-compressed_480x.jpg?v=1571262374",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "439782e1-14a4-4e81-9a5f-ec1979170801",
+          "value": "https://ocs.azureedge.net/img/00628582000524_a1c1_compressed.png",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "996985cf-5a0e-437b-8a1f-7c761318d092",
+          "value": "https://ocs.azureedge.net/img/00628582000524_a1c1_compressed.png",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5ac5f407-d350-41ef-b4a7-9c7471e1ab34",
+          "value": "https://ocs.azureedge.net/img/00628582000531_a1c1_compressed.png",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f51caf2b-a8ae-4b7e-b3b8-c87fe5f714b6",
+          "value": "https://cdn.ocs.ca/img/102014/00694144011949_a1c0_compress_102014.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2f4f96f4-813c-4bf5-bc53-e3291dbb45df",
+          "value": "https://cdn.ocs.ca/img/102014/00694144011949_a1c0_compress_102014.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5fdf33c8-2b97-4337-817e-7f7f87de8931",
+          "value": "https://ocs.azureedge.net/img/00695275000642_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d16bc18b-5604-4915-8dc3-abc4b295a34f",
+          "value": "https://ocs.azureedge.net/img/00695275000642_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fc3730c4-2dda-47df-9365-f11ef145e0cf",
+          "value": "http://52.60.121.34/upload/320008/00628242850452_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e72f7f55-13df-4c93-89b1-6a764b5ab5d0",
+          "value": "http://52.60.121.34/upload/320008/00628242850452_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "99e5f137-c82c-45ed-a2c2-bf83f89a8327",
+          "value": "https://cdn.ocs.ca/img/101497/00628250744880_a1c1_compress_101497.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "4023bcc7-9a29-4971-ac0e-a272708295d3",
+          "value": "https://cdn.ocs.ca/img/101497/00628250744880_a1c1_compress_101497.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5fbe1762-02ac-4154-978b-f4b3ec0c7698",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330026-00826966011757-00_480x.jpg?v=1580167828",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8a34c6ab-5f79-46a3-9f76-1181007dbc25",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330024-00826966011740-00_480x.jpg?v=1580167821",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9ed3bc5a-1119-4186-8241-ca7469129697",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320044-00629108181147-a1c1-en-compressed_480x.jpg?v=1595616157",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d91a484e-a913-4d1a-9295-2d9cdfd1304a",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320044-00629108181147-a1c1-en-compressed_480x.jpg?v=1595616157",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8ff78eec-8591-472f-8d46-90fbf196dc09",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330029-00800447000522-00_480x.jpg?v=1579818619",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "e684d13e-8358-4f17-820b-2ba1f9f9ec7e",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330029-00800447000522-00_480x.jpg?v=1579818619",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f7e48aed-7695-4339-99bb-02392d21c7d6",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330057-00800447000645-00_480x.jpg?v=1594330933",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3969667d-35b0-4f78-b5e4-7f223934be42",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330057-00800447000645-00_480x.jpg?v=1594330933",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fe8c956c-ecf6-4b85-ae7c-24f549cfba44",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330002-00826061200674-00_480x.jpg?v=1579160419",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "0fd6a42a-4e07-4971-aee7-67aa5e2b9156",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330002-00826061200674-00_480x.jpg?v=1579160419",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "89af5291-7385-48bf-8311-cc51ca95309f",
+          "value": "http://52.60.121.34/upload/330031/00671148406018_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "897ec8cf-221d-4ae5-8b26-ed03357177f1",
+          "value": "http://52.60.121.34/upload/330031/00671148406018_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7854287c-f903-4eaf-80f3-fba747c2be30",
+          "value": "http://52.60.121.34/upload/100909/00628242850087_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3581f28a-887b-4558-8617-6a5ce42e3884",
+          "value": "http://52.60.121.34/upload/100909/00628242850087_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "1e568746-6fae-46ef-9173-372392d9ee9e",
+          "value": "http://52.60.121.34/upload/100909/00628242850070_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ed4839b0-a321-422e-820f-647ff59285fe",
+          "value": "http://52.60.121.34/upload/100907/00628242850049_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "5ff8ca7f-96d2-451e-b26d-eeb2afa75a91",
+          "value": "http://52.60.121.34/upload/100907/00628242850049_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "157269b2-4296-4fb4-b8c1-4a75acda8c56",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330053-00800447000539-00_480x.jpg?v=1590424638",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "df3ade2a-4b10-466a-b497-5470a9f0357d",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330028-00800447000515-00_480x.jpg?v=1579818619",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "88acddb2-581d-4b82-8fe5-02154c062ec7",
+          "value": "http://52.60.121.34/upload/330030/00671148406032_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7b9dd2d9-1189-44bc-b529-2559acff7baa",
+          "value": "http://52.60.121.34/upload/330030/00671148406032_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ab7f981c-0e57-475b-ab20-f5e25b73cdf5",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330009-00826061200780-00_480x.jpg?v=1579160431",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "90bc11ea-4c5c-4242-83d9-99adf63b53aa",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330009-00826061200780-00_480x.jpg?v=1579160431",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "12f9305e-174c-40d8-b1d3-49b6babc7291",
+          "value": "http://52.60.121.34/upload/330019/00826061200810_a7c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f9620fc4-8956-4a44-bcec-9714b4d23c76",
+          "value": "https://cdn.ocs.ca/img/101513/00685960002150_01_compressed_101513.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bfd311f9-468f-4b0f-afd0-99d6a621a8ac",
+          "value": "https://cdn.ocs.ca/img/101513/00685960002150_01_compressed_101513.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3928a795-9003-482d-949e-134aea14b195",
+          "value": "https://cdn.ocs.ca/img/101512/00685960001399_01_compressed_101512.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7edaf0f5-714f-42f5-b6fb-d69f04b6c1a5",
+          "value": "https://cdn.ocs.ca/img/101512/00685960001399_01_compressed_101512.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "3097435c-74fc-4726-85f9-b0987c04d851",
+          "value": "https://ocs.azureedge.net/img/00671148401389_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "08eaef5b-c834-4290-b50c-ddbe0248b4da",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "597f3e76-39a5-401c-960e-fd23ada2ad54",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101501-00827885006374-00_480x.jpg?v=1595450227",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c226c3d2-d382-4d1c-b2f2-40bd0f5bdf90",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101501-00827885006374-00_480x.jpg?v=1595450227",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "64e62a94-f00a-45e7-820a-0604fc8e7fe0",
+          "value": "http://52.60.121.34/upload/101265/00827885003069_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6526e8d5-3aff-471f-840d-91401751c531",
+          "value": "http://52.60.121.34/upload/101265/00827885003069_a1c1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7d103889-54a4-4d1d-b001-07081ae874a4",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-300081-00628242245258-00_480x.jpg?v=1579160400",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "80d01509-618a-424b-9b7e-0f63fc124036",
+          "value": "https://cdn.ocs.ca/img/300320/00688083004803_00_compress_300320.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "f0eaa966-fb3e-4b50-9207-14ed2489d066",
+          "value": "https://cdn.ocs.ca/img/300320/00688083004803_00_compress_300320.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "54f8bb9f-cd29-47e6-a4dd-7f6108815898",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101335-00694144004453-00_480x.jpg?v=1582918489",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "891bee23-1529-4607-b9d2-69ff987a2cb9",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101335-00694144004453-00_480x.jpg?v=1582918489",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "457471e4-ca4d-46e0-b316-f606f280d599",
+          "value": "https://cdn.ocs.ca/img/100628/00688083001260_00_compress_100628.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "bc9a34fb-e993-45a1-8ed6-78c7a8b95422",
+          "value": "https://cdn.ocs.ca/img/100628/00688083001260_00_compress_100628.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "193649ef-24d2-43b7-9dda-59d7a0f16274",
+          "value": "https://cdn.ocs.ca/img/320099/00697238204036_a1c1_compressed_320099.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "03a42186-089d-4782-9aa0-50985502cac5",
+          "value": "https://cdn.ocs.ca/img/320099/00697238204036_a1c1_compressed_320099.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "de0ac842-8219-4db5-aa4a-e030a3a2d21f",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320013-00628055980544-ac1c1_480x.jpg?v=1587403227",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "17fc3363-5e3a-4aab-af2a-6da6d0533ac9",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-320013-00628055980544-ac1c1_480x.jpg?v=1587403227",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9b3f592d-4f7c-452e-984a-e492c1e262cb",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330004-00826061200698-00_480x.jpg?v=1579160428",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7f35266c-2fc3-4f1a-86dd-e01ca5d06583",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-330004-00826061200698-00_480x.jpg?v=1579160428",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "804e7ab8-ab8d-41f2-ba29-c3856b0ae196",
+          "value": "https://cdn.ocs.ca/img/101634/00824164000412_00_compress_101634.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6dc0a958-fc80-4d23-b028-e9c0a3026a58",
+          "value": "https://cdn.ocs.ca/img/101634/00824164000412_00_compress_101634.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "969644a9-be66-4dc6-ae09-c219e15ed9be",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101190-00697238200281-a1c1-compressed_480x.jpg?v=1587565324",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ccefb3c9-43b0-4951-8cfc-281d8c1e16c7",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101190-00697238200281-a1c1-compressed_480x.jpg?v=1587565324",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fd6ba343-c947-4723-a31f-5756becdda99",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101189-00697238200274-a1c1-compressed_480x.jpg?v=1587565323",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "482faee8-e6e9-4825-b5cd-45128982d4df",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101188-00697238200267-a1c1-compressed_480x.jpg?v=1587565322",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8580a427-c3e5-4828-8eb6-92d36f1dd40d",
+          "value": "http://52.60.121.34/upload/101694/00628242701624_a1c1_compressed_101694.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "2798d5e7-6e51-4854-8f2d-fc6eb7fb13fd",
+          "value": "http://52.60.121.34/upload/101694/00628242701624_a1c1_compressed_101694.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "092dbe43-4162-481d-96da-0877aac70f62",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310013-00807399051046-00_480x.jpg?v=1592588482",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "59e66fc2-7fb1-4184-8cf5-ffe7c005decb",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-310001-00807399706106-00_480x.jpg?v=1592588468",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "00084498-0b2b-4077-ac05-caf160880185",
+          "value": "http://52.60.121.34/upload/101580/00628504701164_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "67f73cd0-bd6a-4e3c-a827-2c45cfb295c4",
+          "value": "http://52.60.121.34/upload/101580/00628504701164_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "c11271c2-b9e7-40cc-a20d-dcd60926fe3c",
+          "value": "http://52.60.121.34/upload/101580/00628504701164_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "be046e79-6430-4100-aa02-f497bcf958d1",
+          "value": "https://ocs.azureedge.net/img/300284/00882464001423_a7c1_compressed_300284.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "11293167-3fb1-41ac-8e41-a423ff53f6fe",
+          "value": "https://ocs.azureedge.net/img/300284/00882464001423_a7c1_compressed_300284.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fa86939f-dd24-4d86-a2b4-4491b7a9febd",
+          "value": "http://52.60.121.34/upload/101730/00842865002825_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "449c681e-9813-4f4e-9f04-9c3697616fbc",
+          "value": "http://52.60.121.34/upload/101730/00842865002825_00.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "23f41c28-58b4-441f-acad-e812298ec09a",
+          "value": "http://52.60.121.34/upload/101574/00628504701287_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "8d9e7b71-31f2-4804-8e6f-54e0b1e2e75d",
+          "value": "http://52.60.121.34/upload/101574/00628504701287_a1c1_fr_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "ddfd1026-2cba-4779-b489-5bc7fb2ce33e",
+          "value": "https://ocs.azureedge.net/img/00628242200400_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "fa159906-a1c8-4f05-b77b-75b84e35d9cd",
+          "value": "https://ocs.azureedge.net/img/00628242200400_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "9cb5893d-56ff-43ae-b3fe-b659974b9311",
+          "value": "http://52.60.121.34/upload/100946/00628242200769_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d8971c73-8994-44fd-ba95-fa39c9a98eb1",
+          "value": "http://52.60.121.34/upload/100947/00628242200639_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "51090b3e-afbe-4ec8-a39c-659d8021960b",
+          "value": "http://52.60.121.34/upload/100947/00628242200639_a1r1_compressed.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "73233a07-56ab-4ec8-a065-e0b8b97b2269",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101034-00628242800167-a1c1_480x.jpg?v=1585873635",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "592c461b-5f82-4e4f-bba8-db0678ba1685",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101034-00628242800167-a1c1_480x.jpg?v=1585873635",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "400c9c55-34a5-4833-8f17-d8054255cfec",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101041-00826966009617-a1c0-compressed_480x.jpg?v=1571262351",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "19fbeb8d-17de-41ba-a1c4-7f2299ab32e9",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-101041-00826966009617-a1c0-compressed_480x.jpg?v=1571262351",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "6a1bfa56-36d8-4582-8f13-cf2c41c6e38c",
+          "value": "https://cdn.ocs.ca/img/300174/00694144005757_00_compressed_300174.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "79fef94d-b34c-46e8-8f58-ebe5001e6e40",
+          "value": "https://cdn.ocs.ca/img/300174/00694144005757_00_compressed_300174.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "79ed8d2c-038f-4ab2-9519-d57acedee589",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100115-00628582000166-00_480x.jpg?v=1571262108",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "d10b168c-9607-4e61-a841-d61025a07e21",
+          "value": "https://cdn.shopify.com/s/files/1/2636/1928/products/upload-100115-00628582000166-00_480x.jpg?v=1571262108",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "7abe5ce9-9fc0-4b53-96d3-74e6b23cdcd7",
+          "value": "https://cdn.ocs.ca/img/300120/00628242245357_01_compress_300120.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        },
+        {
+          "id": "19132a20-e168-4a6c-8e11-edbb03ef9af0",
+          "value": "https://cdn.ocs.ca/img/300120/00628242245357_01_compress_300120.jpg",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" is valid"
+        }
+      ]
+    }
+  }

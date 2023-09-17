@@ -1,0 +1,999 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "a4ed50df-991d-461a-8af0-61312407bdf8",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "8492666e-4475-49be-8f2d-3410d38e2a9b",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "6d910675-9fa8-4a5c-a44c-7c686a043084",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1651107248/bz6sfyxz1wbqgirmrd5g.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "6d910675-9fa8-4a5c-a44c-7c686a043084",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "0bdc3b9f-0826-4fef-a2a6-b15efd06eca3",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1677789813/hnpxh1ewyvcy4lasvdby.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "b6c41b26-4d4e-4c2c-9ec7-ccdf662900f6",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657035856/usttidxyzt3ta2tm3fg9.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "fe700227-3d5c-4c84-8d60-cf13d490a310",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "f71f11dd-468e-4c67-92a3-85b75cfec922",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657046518/ia71ubgnxj4v3ypv6tin.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "4530217d-073d-4fed-b441-cc1b41e7b605",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b2d3b673-b89d-4b19-8f7d-d0eff8c30efe",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "6974ae94-e417-47e5-9619-871457e5fa47",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657037108/ogqgp9oxc51q0cktmitj.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "96e4ff08-3f09-4f18-b37a-65ced8a8faed",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "2b523ee9-14ed-493f-8fc8-e0b43088da8a",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ab90a192-6f56-453a-b59e-a8fac5070ed9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1681843211/jqjikgngbocd7nttfgkx.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "cf389df5-9f21-4b05-9394-7e8da45f1e11",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "efaaf3f7-01e8-41e7-b1a4-15618d30cfc4",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "49b421a3-d1f0-4af4-9fa4-86f90a8ce534",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1651157250/x5wojaqioswjvqen5dnw.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "49b421a3-d1f0-4af4-9fa4-86f90a8ce534",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b754f77f-c7ed-43e0-95ef-8963ec5c8f11",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "dbc7f02f-a8a4-4091-965e-bffeeec53a7c",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3b046ae4-3fb8-4933-875c-ea7d7019ce41",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a0e45f3f-ed72-4c78-9d53-d99a55f2ac16",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "574cd2d8-7ed1-4fbc-bb29-a0b49a7a1a2f",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "f0536807-a4cf-4f15-8375-a64bd7504235",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "4607dc23-842e-45ad-9528-9081457db9f7",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fb40781e-7666-4f30-a329-c98e9f5fa06a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1688503433/k2i9yfbzpbi1gytdp7h0.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a7541f5b-8744-497a-84be-71329ac6dee4",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "dcda6462-a9c6-4f29-a341-2df6cd7b3478",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "4ad6fc97-fb18-4d09-9747-65b71d1f6887",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "26995f0f-1e83-43b5-ab19-712886db5661",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3b472d9d-7dfc-4f6c-94e7-3927caaf6da1",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "0850050f-7f02-4176-8a43-5e6666bd919f",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e8a0d700-6296-42b8-a5f3-122a1a957b94",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a7b10842-1195-4cb3-afcd-f3545e838d18",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "048d2d4c-c00c-4c1d-90b8-c3f4cf42f839",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "2360014d-19aa-411a-90b6-6e651dd90c94",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5fa03334-f59c-478b-9567-850217b02b20",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "328b38a1-eac0-4ce6-bc6b-ddcc9e6c31e6",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "6fafa4dc-4f5a-4625-8c64-b82d58eee649",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "db917cfc-4747-4e64-a524-acf5f50b5357",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "d4e84c3f-fb9f-4977-a822-b544693cc4ea",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "61d3041f-df27-443d-95e1-f1fccb068691",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "0219c352-c6a9-4dda-ba02-48704cde6824",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fa3b6080-ec15-4692-b53e-83d491326403",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "dc21401d-372a-463e-8fd6-5d50ffb56e67",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1c7c28ee-7338-4af6-8940-b3d342800ffc",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "238ff873-9a67-4a13-9b37-2c10af94bbef",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ccf35e74-5668-4d0d-8bac-5b2d5391f5d6",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a11505ad-06da-4f4e-8c20-eee3d522b4e4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1652455592/p4ukubq4kreembapkskq.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "a460bc14-5bdb-4722-971e-555606751114",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "0f554d52-f91e-4f5c-bbe6-aceb3ceb811e",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "46453834-a67d-4a43-b797-f89f207e6abf",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "bc4b6b35-ced6-43c8-a2bc-d5c5231385c1",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5dd4f4bb-d542-4f99-b923-5f102ebce372",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "55e45d9a-ab6d-434d-92ed-b7f825109905",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "8962bdb3-b811-42e3-835b-2d54d6a6ccf4",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "454e4911-1bef-4ded-96d0-13ae4345a5c2",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1692295497/oslt6pxcjcafbcxo0udy.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "c3ee431f-0ec6-425b-8c05-4710ff84318b",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "9f77a754-5bbc-4114-a7ce-620c8a0d7cd0",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "93e9f8d5-6d72-439d-84bd-2eba7b0b192b",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "6e35e0c2-c976-482d-96bb-61ca00802953",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fb87d587-d57b-47fe-9781-17f9d5e6a2e3",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "0bc1d643-2da1-4859-a1a9-b1b1b30a1019",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "9d830b44-f934-4317-be6a-26b47db5bfcb",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e06d632a-d82e-4463-9501-d48ac2a2c61d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657041883/lpvmw66qycvj2coulum3.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "ab3c4ac1-3fc0-4fae-a50d-03a6a5ec97f7",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1651167702/wqyerwbymfkzznzbrdhf.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "ab3c4ac1-3fc0-4fae-a50d-03a6a5ec97f7",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "df80e7be-daef-468a-b9b1-65bc13dd11b4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657038751/r83k9pjiffc35dzk7pad.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "0b4e8c73-7c86-4f83-8ad4-16a9626b367a",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "c75c0c99-5eb1-4118-b761-35b92b2831fc",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1ba6d806-1fd1-4f28-aeea-cd786c18c462",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "2e2e6844-2daf-4603-8211-5a8b1bcb51a0",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "22477fd2-26fc-4c50-894d-6f076799114a",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e7fb106e-9979-428b-aeea-242f9da2a44b",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "2312a8ae-60ac-417f-8cab-397545bb1f5d",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1688395134/lpvykzqjmt5fwnycn77g.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "b120dabe-5bd9-402b-8996-b8268b806b40",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "12477312-d8a6-44ba-84e4-706e2bce1823",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "7cbfb7d1-7a15-48af-86f0-cbfd94585c47",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "06a66c3e-0545-42b3-a674-90e1a27bd51e",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669323272/giuctzdbxzxzphgga0dn.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "576828d7-4693-425f-9117-f1ae6cc08066",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669323242/yg3lng9hsnfbvbi9tmvy.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "addcb39c-08d5-404f-81a2-095b7c5b7ff4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669323218/yyzrjwzdhlboiditgwia.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "33e49b43-ad95-4d23-a5be-1f14a0e43779",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669323194/twntpo3xtcqyt2wgbz0f.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "e2f2a471-2f70-4f61-97c4-32c36348e50c",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669322146/f3e9fzzlwhmdqfaqpqaw.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "6f22649a-cf0f-4607-adea-807fa542ad11",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669323366/sw6edxxkmhntlei46f1a.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "7694652b-9d72-4300-92c9-63b7872c20a7",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1669323377/ygkfmgb9otazteyehteu.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "85b8e785-7d8e-4e67-8acc-0365dcb91290",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657040506/zokkfkefywqkjntwmopz.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "d59304e2-db61-4a45-86e9-a9354115c746",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "cfcb4061-1026-42f4-80be-6db6b22108ee",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657036541/mftsvcdqza4jtgysle0m.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "49cea1cf-e5e7-4d49-8622-6d636e4122fa",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1180c215-418d-41b0-9685-1c353acb88c0",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "efdf2400-d7be-45ce-8457-fc5e1ac7d9d4",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3244a59d-da01-49e8-96cf-056c165ff48c",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3f6c2846-d542-4b07-9fed-270b8a247c11",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "bb95f07d-7e55-4cd3-af58-b12edee5d0ad",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1179902a-c522-4a5b-914c-318731e00202",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5dc112b8-0256-46e1-922c-27059a0f86d6",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5d132ec0-7a9c-4618-b87b-4555dadae7f1",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657041115/rijlwhtvagltrfhyatsu.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "32988835-23bd-465b-b0bc-10b09dabfc3a",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657041316/jajekza13vlxftft0gfy.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "60f74238-55e2-4cb1-8ca4-ac4c9da6ef64",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1657041492/lgn70jkitrg2klwpt8ci.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "6331772b-8e83-4ff7-b6a0-cd1f52ad9664",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "403450b4-24ef-4964-97a8-a3fedccfe39c",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "c9895bfd-9fd4-4b64-b51b-cbecce547b35",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5d524124-4a7b-47a0-8c03-96dd7a8278c0",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "dae80134-9926-4829-9c83-5dc85fcc0f49",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "d120b578-d84c-48f0-899f-f6d75f60790b",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "daf09536-a7bc-4e5e-8e3f-aefdd6754074",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a63b1546-bee5-4f07-a802-ed838f551168",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e28671b8-0677-4ca3-804b-3a30eea4df54",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "20024341-708d-40f3-b632-c597108e3e9d",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "13a61885-3541-4ce3-b0c8-dce7332feb30",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3d365961-270e-4bf8-8cdf-935999a19a86",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1e500ccf-0dc8-4019-b71a-84218c47df7e",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1677183145/qepxdlqanjmykhztpfds.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "9cbc84bd-4118-4b70-ab40-0440ddda46af",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1677183145/qepxdlqanjmykhztpfds.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "d99db5f3-00ab-4b42-a493-cd73e7a51766",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e83411d9-db62-4ae3-9108-c967ac17a891",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "d9345048-8696-44ba-ab47-b5fc388acd8c",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "3abfa695-933a-4d56-98d7-d6562dd48c22",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a0d5d5f6-4065-40f2-be25-b41c5fc760eb",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fff838b6-960e-4960-a191-bc2805506818",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "baa914e3-9aba-490c-ae97-749b3a88e9d6",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e3534d3f-9cdd-4ec3-913a-1e519be80282",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1678636291/ipjuuuippyl7rrcrp2go.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "2b3cc829-b520-49ea-9310-5af245d64686",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1678636302/lxngtl97rgi9bvdpvpnn.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "c311b287-0194-4a3c-9d0a-a92229eee614",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "03511d6e-f453-424f-89f3-4bb2c485f376",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b06fcf1d-4740-4c21-ba24-7c4bea99e5ab",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b2277bd1-d9fa-4f94-b343-b31bc9c58fa7",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "800d8e07-3c01-4e76-a5e8-378f78cda979",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fef96bb0-76e9-4e85-83f8-1b55e0cd18cd",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "8807e730-170f-4ea0-ab62-e8b693dd292b",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fb6f792c-a0d1-4686-bbab-bdd6b5f0f4ed",
+          "value": "Thoughtfully designed in the original Redees straight-roll pre-roll, this is a balanced hybrid cross between well-known Redecan strains Black Cherry Punch and Lilac Diesel. Black Diesel is a pungent phenotype showcasing both sour citrus and fruity undertones. Black Diesel is characterized by high levels of myrcene, caryophyllene, and farnesene in its terpene profile.",
+          "property": "shortDescription",
+          "message": "Please ensure \"Receipt Description\" has a maximum of 255 characters"
+        },
+        {
+          "id": "c45acbcb-67cf-4a32-9052-ada3e4949c7d",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "59785b59-a8aa-4513-8e62-c31443cb8ab0",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "cf88e859-67f8-41a5-9394-ebe4c7c1f504",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "fce0a9b2-e2b9-4856-8747-5d400368cee0",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ec331342-dc33-464e-9e37-4a75a98c8be5",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ff9f243d-7487-41e5-bf5a-65b83e7d8526",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "f4db79a6-0d9d-47d6-a4b1-a7f53dd826d2",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5a9502ae-5a1b-40a0-b615-f9654caad563",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5607a636-25a9-410b-b363-2ab209769f34",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1677789968/q1j8jrbljy7necn3wl7f.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "0635e6ad-4930-47fc-b7b2-cdfc0dc1de23",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1651254561/cnkinrzoiv3fgswgnuin.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "554f0827-c838-4050-8e7c-28c10d151bc3",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "5a7c91a2-479a-45e8-8dbc-40782df925f1",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "37f14056-bb52-4ad9-a5b5-45f66938fef6",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "4de07b5d-7c2a-4a90-9b59-e65f1127b341",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "241d1e2d-2e46-462d-ada1-e7abf19ba09e",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "86e29b37-cc7d-4099-803e-397050fbc8c8",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1d0ba91e-0134-4f86-8fc8-a9774cc036c9",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "064afc6d-faca-4053-95a6-a5344b5acb59",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "9b44eefc-5e03-4a83-b9ac-dd71ab778c5d",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "acb2db03-5a3c-4f3a-ba90-58d7eb39ec26",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e9584719-fdb5-4782-a4da-9a8123cc532f",
+          "value": "mg/unit",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "9e5e2e22-581a-42a5-8b84-819d099dbcf4",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1662048352/bifvjmx7vjshipxlmsyh.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "9313cc4a-d5ab-4e80-8c3c-39e25040faeb",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1662048352/bifvjmx7vjshipxlmsyh.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "dbde7c59-eff4-4dc6-b93a-9066ecf28f68",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "d8989fd6-7aed-4abf-90e3-1e5acfa5f751",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1674062668/fjvzxlad2qq5hfnt2k9h.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "ba7b0a81-c6ca-4052-90dd-5c07b13943bd",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1674062668/fjvzxlad2qq5hfnt2k9h.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "1b839a44-bf17-4338-ad50-4a45daa57530",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1674062668/fjvzxlad2qq5hfnt2k9h.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "3d7e931b-6d30-49ad-ba92-7d2c1ecf00a9",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1674062668/fjvzxlad2qq5hfnt2k9h.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "bb956de5-8f02-45d9-bc7d-4948ed4436b9",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "edb5cd60-25fb-4406-8c74-4463a834d1e2",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b9e14874-5c6b-4d30-9ca7-72b0361cc72a",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "a796b5ea-1b85-4853-bd25-6261af4fecd9",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "b77a2072-fe82-4f86-b29d-c62ec4d9d5b6",
+          "value": " ",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "d0cf0d20-adec-4c1f-ba85-878e8a6dc348",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1677182808/p6uhxan4lprrttzv02az.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        },
+        {
+          "id": "dbc0667b-89fc-411f-b3de-e5eeb18f116b",
+          "value": "https://res.cloudinary.com/get-greenline/image/upload/v1672672668/qduwu0l1bw2s6tzgphv5.webp",
+          "property": "imageUrl",
+          "message": "Please ensure \"Image URL\" has a valid URL ending in .jpg, jpeg, .png, .gif"
+        }
+      ]
+    }
+  }

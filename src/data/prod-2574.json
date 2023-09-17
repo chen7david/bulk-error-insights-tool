@@ -1,0 +1,123 @@
+{
+    "message": "ValidationError",
+    "customErrorObject": {
+      "message": "ValidationBulkError",
+      "statusCode": 400,
+      "details": [
+        {
+          "id": "d695be3c-82c1-4625-9b85-49f691b8b847",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "42177009-4959-41ee-81a6-33c0f0ad38a2",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "e36591c2-8e5c-4d5b-8194-43c633c7ceef",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "500e5d77-d9fa-42c9-800f-269d26564b70",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "c5ba6c06-91cd-410d-97e5-3c08f29e9a94",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "724c4719-38b4-4dfb-b7ed-dd456e6c13e9",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "160dd58a-4c93-45e2-86ff-99431e78e557",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "1bc4b711-931f-4c6e-bc59-a2f6aada11fe",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "bf304410-fb3d-4e4d-b364-853c095949c3",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "60d8e5cc-bb6c-4961-b0dd-cf7c8bcc2e6c",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "10b623b3-4608-4af5-85c8-33233ebef7ae",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "ee8ace3a-f9e0-43ab-b89c-3ea47e9c71ee",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "cce94507-409d-40b5-9ae9-cb018e6f9ad1",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "6af27040-962d-4c8e-b5e5-526a71de6fb5",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "c26ff512-cb6a-4526-a911-f6e592eb40b9",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "93a58ee4-1b6d-4308-ae9b-4b3399c32151",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "df6e2552-76af-4c8b-ae2a-b13ea997bf0a",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "390dae36-815a-4a49-9ad8-d5a13541c3be",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        },
+        {
+          "id": "4d455db5-6794-4177-9ae2-8577b785bbff",
+          "value": "mg/capsule",
+          "property": "unit",
+          "message": "Please ensure THC/CBD Unit is %, mg, ml, mg/g or mg/mL"
+        }
+      ]
+    }
+  }
